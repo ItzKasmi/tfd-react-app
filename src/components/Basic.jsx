@@ -1,7 +1,18 @@
 import React from 'react'
 
-export default function Basic() {
+export default function Basic(props) {
+  const { basicData } = props;
+  if (!basicData) {
+    return (
+      <div>
+        <p>Error, no data loaded in Basic.</p>
+      </div>
+    )
+  }
+
   return (
-    <div>Basic</div>
+    <div>
+      {basicData.user_name}
+    </div>
   )
 }

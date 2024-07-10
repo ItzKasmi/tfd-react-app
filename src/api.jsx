@@ -2,16 +2,15 @@ export async function gatherAPIData() {
   const TFD_KEY = import.meta.env.VITE_TFD_API_KEY;
   const OUID = "8102e8f67c7128b13587299ded26367ba42bb9591fc1dcdf29fba0635144751d";
   const NICKNAME = "NitoTech%230254";
-  
+
   const basicAPIData = fetchBasicAPIData(TFD_KEY, OUID);
   const descendantAPIData = fetchDescendantAPIData(TFD_KEY, OUID);
   const weaponAPIData = fetchWeaponAPIData(TFD_KEY, OUID);
   const reactorAPIData = fetchReactorAPIData(TFD_KEY, OUID);
   const componentAPIData = fetchComponentAPIData(TFD_KEY, OUID);
 
-  return basicAPIData, descendantAPIData, weaponAPIData, reactorAPIData, componentAPIData;
+  return await Promise.all([basicAPIData, descendantAPIData, weaponAPIData, reactorAPIData, componentAPIData]);
 }
-
 
 `
 Used Basic API Data:
@@ -30,8 +29,10 @@ async function fetchBasicAPIData(api_key, OUID) {
     })
     const apiData = await res.json();
     console.log(apiData);
+    return apiData;
   } catch (err) {
     console.log(err.message);
+    throw err;
   }
 }
 
@@ -55,8 +56,10 @@ async function fetchDescendantAPIData(api_key, OUID) {
     })
     const apiData = await res.json();
     console.log(apiData);
+    return apiData;
   } catch (err) {
     console.log(err.message);
+    throw err;
   }
 }
 
@@ -71,7 +74,7 @@ Used Weapon API Data:
   for image urls.
 `
 async function fetchWeaponAPIData(api_key, OUID) {
-  const url = `https://open.api.nexon.com/tfd/v1/user/weapon?language_code=en&?ouid=${OUID}`
+  const url = `https://open.api.nexon.com/tfd/v1/user/weapon?language_code=en&ouid=${OUID}`
   try {
     const res = await fetch(url, {
       headers: {
@@ -80,8 +83,10 @@ async function fetchWeaponAPIData(api_key, OUID) {
     })
     const apiData = await res.json();
     console.log(apiData);
+    return apiData;
   } catch (err) {
     console.log(err.message);
+    throw err;
   }
 }
 
@@ -92,7 +97,7 @@ Used Reactor API Data:
   - "reactor_level"
 `
 async function fetchReactorAPIData(api_key, OUID) {
-  const url = `https://open.api.nexon.com/tfd/v1/user/reactor?language_code=en&?ouid=${OUID}`
+  const url = `https://open.api.nexon.com/tfd/v1/user/reactor?language_code=en&ouid=${OUID}`
   try {
     const res = await fetch(url, {
       headers: {
@@ -101,8 +106,10 @@ async function fetchReactorAPIData(api_key, OUID) {
     })
     const apiData = await res.json();
     console.log(apiData);
+    return apiData;
   } catch (err) {
     console.log(err.message);
+    throw err;
   }
 }
 
@@ -117,7 +124,7 @@ Used Component API Data:
       - "additional_stat_value"
 `
 async function fetchComponentAPIData(api_key, OUID) {
-  const url = `https://open.api.nexon.com/tfd/v1/user/external-component?language_code=en&?ouid=${OUID}`
+  const url = `https://open.api.nexon.com/tfd/v1/user/external-component?language_code=en&ouid=${OUID}`
   try {
     const res = await fetch(url, {
       headers: {
@@ -126,7 +133,9 @@ async function fetchComponentAPIData(api_key, OUID) {
     })
     const apiData = await res.json();
     console.log(apiData);
+    return apiData;
   } catch (err) {
     console.log(err.message);
+    throw err;
   }
 }
