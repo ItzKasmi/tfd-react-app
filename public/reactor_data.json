@@ -1,0 +1,3427 @@
+[
+    {
+        "reactor_id": "245001001",
+        "reactor_name": "Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5283de6ad237fe44ac3bfd7730f4d3f4"
+    },
+    {
+        "reactor_id": "245001002",
+        "reactor_name": "Chill Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f204e07d0d152b34c7ecdc02bfe4fdfd"
+    },
+    {
+        "reactor_id": "245001003",
+        "reactor_name": "Fire Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4c8ec5599f20cf84c0a55ddfc5acd8b1"
+    },
+    {
+        "reactor_id": "245001004",
+        "reactor_name": "Electric Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a0aae57c9bbe72542b7487049a984736"
+    },
+    {
+        "reactor_id": "245001005",
+        "reactor_name": "Toxic Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ecbfe3b98a3ebb4fd857b101a00040a0"
+    },
+    {
+        "reactor_id": "245001100",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8dbd68e19bed365cc5e326293aae086f"
+    },
+    {
+        "reactor_id": "245001101",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cdccdc01f2a42ddc53cfa6bd3e3b6837"
+    },
+    {
+        "reactor_id": "245001102",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/56894295e8e96cf90d8bcf4f0b11f422"
+    },
+    {
+        "reactor_id": "245001103",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3c51d0428f81c21d61f8c22182c7d2a2"
+    },
+    {
+        "reactor_id": "245001104",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5866d2d0f5be5d7effab5273d8a0adaf"
+    },
+    {
+        "reactor_id": "245001105",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4ceb4903caf8a1f0e75c76476c5011d2"
+    },
+    {
+        "reactor_id": "245001106",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b58fcddf43b3af366d24b2b0777b6b5f"
+    },
+    {
+        "reactor_id": "245001107",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2d0f3ff0be376d247bf895a4fa64c859"
+    },
+    {
+        "reactor_id": "245001108",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7e5e12f5e80d89661d39a67624d1c1ce"
+    },
+    {
+        "reactor_id": "245001109",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/36ac82fc69d508b6d2eea995b05cfea3"
+    },
+    {
+        "reactor_id": "245001110",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/424f90176bdb8fe39e69aaef978f9212"
+    },
+    {
+        "reactor_id": "245001111",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/49433b3817b6022223ff09189ad6bce6"
+    },
+    {
+        "reactor_id": "245001112",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c362bbb41b53a1bcf7824df1c5644876"
+    },
+    {
+        "reactor_id": "245001113",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/081bcf2de9c9865373a341f54f8eb5cf"
+    },
+    {
+        "reactor_id": "245001114",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1f5ee44899eef3d673c7cac235d900c3"
+    },
+    {
+        "reactor_id": "245001115",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2240918b9062811dfab6918bd2a4173c"
+    },
+    {
+        "reactor_id": "245001116",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1ff1f69782312f6524ea7d7addbfc078"
+    },
+    {
+        "reactor_id": "245001117",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a88e3763fc806a02d926e5c9ca27c851"
+    },
+    {
+        "reactor_id": "245001118",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/316a5b0892c839a0c87e91faa8807007"
+    },
+    {
+        "reactor_id": "245001119",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2b8f96bb6c99dab7875fa9bd117def07"
+    },
+    {
+        "reactor_id": "245001120",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a7ce804f865b96bfeb4a3936d02e67f4"
+    },
+    {
+        "reactor_id": "245001121",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/dc2f4e22b33152791cc570f0b9ff1d80"
+    },
+    {
+        "reactor_id": "245001122",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/969a713f20ba5f3898a6292a82aa216f"
+    },
+    {
+        "reactor_id": "245001123",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/824de312cad4cd366d031183247ef365"
+    },
+    {
+        "reactor_id": "245001124",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ebbd4b950ba97f25cb6cb710cb5f53a9"
+    },
+    {
+        "reactor_id": "245001125",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d42ebfb1357868da8aa794b48827aab5"
+    },
+    {
+        "reactor_id": "245001126",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/97d4f1b6fb9a5c85735e89ebb8a0deb6"
+    },
+    {
+        "reactor_id": "245001127",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/05e6cc44b4811304825c0e57f0b02297"
+    },
+    {
+        "reactor_id": "245001128",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c36e23c84b91d179c4dda5707b6800d7"
+    },
+    {
+        "reactor_id": "245001129",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/521257003e6a98e736340d2e16a1a420"
+    },
+    {
+        "reactor_id": "245001130",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9bd8ec999b515802fd3a6201d342ea5c"
+    },
+    {
+        "reactor_id": "245001131",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b3ca09963c5cccb625dfde52613e8496"
+    },
+    {
+        "reactor_id": "245001132",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4f9469902615d910fdf4cc1f54d6c6ff"
+    },
+    {
+        "reactor_id": "245001133",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3c4f0e1053d11ad037ec7c7cec09be2c"
+    },
+    {
+        "reactor_id": "245001134",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7e4c42f5ecdbf9616c45f4e0ca300eb9"
+    },
+    {
+        "reactor_id": "245001135",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0f2cca39fd5e4962bc4598b3bd744065"
+    },
+    {
+        "reactor_id": "245001136",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9b6611daae67a115e059b784e530026d"
+    },
+    {
+        "reactor_id": "245001137",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9f1687088f6de1a00b5f38a5184fc58a"
+    },
+    {
+        "reactor_id": "245001138",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7fc0b408ec4fdea97b7d9fe115cecd53"
+    },
+    {
+        "reactor_id": "245001139",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/502e57447688e18f8e316e53ed87cf27"
+    },
+    {
+        "reactor_id": "245001140",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/677c04ab7426aebcb7a73a69b7def7d7"
+    },
+    {
+        "reactor_id": "245001141",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e8a0e390079ed99e44d3cda5e9cc9db5"
+    },
+    {
+        "reactor_id": "245001142",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4f760d0c1cde6376cd425fc0b23b16f3"
+    },
+    {
+        "reactor_id": "245001143",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b110f87e2ee348959cef9dc2e2177f59"
+    },
+    {
+        "reactor_id": "245001144",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/dcd6862c3d5037973518418965b96dc9"
+    },
+    {
+        "reactor_id": "245001145",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2b87dace50f43ebe15dcca6c2657ddca"
+    },
+    {
+        "reactor_id": "245001146",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/16cab04df3f775f491743dd9c245c7bc"
+    },
+    {
+        "reactor_id": "245001147",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0ec640b6bf4eb117bda9efc3abca1c51"
+    },
+    {
+        "reactor_id": "245001148",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cc15c799f0a6fb5b8d05884db4b562a5"
+    },
+    {
+        "reactor_id": "245001149",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d594931b180ca55effd347e0e7b735b6"
+    },
+    {
+        "reactor_id": "245001150",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/026e35ab6665a8587fb07c37eeeb7bea"
+    },
+    {
+        "reactor_id": "245001151",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/35a230de587ac167cec344376b80a9c0"
+    },
+    {
+        "reactor_id": "245001152",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e4e48174ccd5016087e14f6ca667617d"
+    },
+    {
+        "reactor_id": "245001153",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ec3e26a1e793311673e8736d53f5a15a"
+    },
+    {
+        "reactor_id": "245001154",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e0dc331b45cb15b1ed8f4145739fbe54"
+    },
+    {
+        "reactor_id": "245001155",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9f1556cf3dd1bec894aa0dcb9d253d2c"
+    },
+    {
+        "reactor_id": "245001156",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d586dbb75a8137891cc19f3c2716063c"
+    },
+    {
+        "reactor_id": "245001157",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0a6ccef1a3f1c45c49efbe47e1e934a7"
+    },
+    {
+        "reactor_id": "245001158",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2d55959d9f4e336a825e9cf492e7bd40"
+    },
+    {
+        "reactor_id": "245001159",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/04373fe2760ceb457521cf562f30bac3"
+    },
+    {
+        "reactor_id": "245001160",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/02db50c62e8cb1a04ec90f0aa9e73422"
+    },
+    {
+        "reactor_id": "245001161",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e1b4a21fe9ed7be29bff344d6f9651ea"
+    },
+    {
+        "reactor_id": "245001162",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fcff71b04890bd8936aaf9efd892f587"
+    },
+    {
+        "reactor_id": "245001163",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a2ea1d3a275eb670704a0a8b537c0fbf"
+    },
+    {
+        "reactor_id": "245001164",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/897bde40f3e4d3e80dbb2faf4b318f0f"
+    },
+    {
+        "reactor_id": "245001165",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/487215ae612da3502f0ea0086e5aa081"
+    },
+    {
+        "reactor_id": "245001166",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/63185626e9945fa55562bfd489902646"
+    },
+    {
+        "reactor_id": "245001167",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6a7c8978f337569cd0daee8baa5992d9"
+    },
+    {
+        "reactor_id": "245001168",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d583b5729073e75a5f7cd5382df94807"
+    },
+    {
+        "reactor_id": "245001169",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/489bcfaf16710c0e837a9f6f3e2f7d88"
+    },
+    {
+        "reactor_id": "245001170",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/688592526b9571fd6926bf5a17073070"
+    },
+    {
+        "reactor_id": "245001171",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/40dcaeb423a14fe6a522055c904eb246"
+    },
+    {
+        "reactor_id": "245001172",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2daf00175a3ba9c603af03d65e31a0d0"
+    },
+    {
+        "reactor_id": "245001173",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/797cd57ef301bd7a03b8217df931f0cc"
+    },
+    {
+        "reactor_id": "245001174",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d223d062417afcec4530d52ac248643f"
+    },
+    {
+        "reactor_id": "245001175",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/97cbe6958ad6ff54f15fd00ae300fdd4"
+    },
+    {
+        "reactor_id": "245001176",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ad9a743a7ec4def22b86434d69e614cb"
+    },
+    {
+        "reactor_id": "245001177",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/59fa35a4286fc15f08a2b51136cc2609"
+    },
+    {
+        "reactor_id": "245001178",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fba23a6fec792d5028077e7d3e72e9b8"
+    },
+    {
+        "reactor_id": "245001179",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/37e07abdc9c4a23adc2fdbb0a2ae9529"
+    },
+    {
+        "reactor_id": "245001180",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5aee58682e540c7bbe282836ba3240d4"
+    },
+    {
+        "reactor_id": "245001181",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d1acd3ed924a43573c9d3913896af343"
+    },
+    {
+        "reactor_id": "245001182",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/61f087f6024df1295f5e4383cecc8fbe"
+    },
+    {
+        "reactor_id": "245001183",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/aee5b96a5d2ff1c2e09eaf48d5875d6a"
+    },
+    {
+        "reactor_id": "245001184",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b66e550d019d43d8072518b3f887b990"
+    },
+    {
+        "reactor_id": "245001185",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/94d81fb2e4d6fb72a1f6ccdd93d2f194"
+    },
+    {
+        "reactor_id": "245001186",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e133a3041a32c76e597f505c2500e909"
+    },
+    {
+        "reactor_id": "245001187",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/07910d773902790ba2e9225fd3c37776"
+    },
+    {
+        "reactor_id": "245001188",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ea5a76c2c9c562cbddd4fb6dac05f358"
+    },
+    {
+        "reactor_id": "245001189",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d7a4884a506826213fa3f3ca819e1c82"
+    },
+    {
+        "reactor_id": "245001190",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8745bcbd5f13484346f31380f3a77d63"
+    },
+    {
+        "reactor_id": "245001191",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7090326b1d237a96afe356f010b72ce4"
+    },
+    {
+        "reactor_id": "245001192",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/87e5922d810010971da2d985e17fd6a7"
+    },
+    {
+        "reactor_id": "245001193",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f9e607fc33b505c66e340092e9319337"
+    },
+    {
+        "reactor_id": "245001194",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bbc4278ff39c6eb42e91a7fd8703ce7f"
+    },
+    {
+        "reactor_id": "245001195",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bb42a9cd5a3ac41f183041092bd0a305"
+    },
+    {
+        "reactor_id": "245001196",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3af0d1da909eb0fec9131fe5cb730f4d"
+    },
+    {
+        "reactor_id": "245001197",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7e17350b95e7f8a60e83539fbdcea7a1"
+    },
+    {
+        "reactor_id": "245001198",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/212594e9da51a637f4fae7c967ed633e"
+    },
+    {
+        "reactor_id": "245001199",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a0c504ee99d2745820aa65639e9ded6c"
+    },
+    {
+        "reactor_id": "245001200",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2aba334a13c1d53f0349303e2f2dcf21"
+    },
+    {
+        "reactor_id": "245001201",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5ab2e26f39c3f19ac57950d43fc01d8e"
+    },
+    {
+        "reactor_id": "245001202",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/01da2af9941efb00bd8f1d0c572d3b13"
+    },
+    {
+        "reactor_id": "245001203",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/61407b865f69d39247055b24c74b28da"
+    },
+    {
+        "reactor_id": "245001204",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5da7d3247a2863d12e7ea2cd7e2ab0e6"
+    },
+    {
+        "reactor_id": "245001205",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/280df117f4067b49bb18e18926f82ef0"
+    },
+    {
+        "reactor_id": "245001206",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d2312ed17500cad13a280f5a49832e72"
+    },
+    {
+        "reactor_id": "245001207",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b4f0b75f279d12c0b3921a1fa59c735c"
+    },
+    {
+        "reactor_id": "245001208",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e74e3612e8d5255e0064e759c655bed4"
+    },
+    {
+        "reactor_id": "245001209",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/23383f035b21d2bc159fef4e5f2efe78"
+    },
+    {
+        "reactor_id": "245001210",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/835af2a187489951f73c638c83de1c70"
+    },
+    {
+        "reactor_id": "245001211",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/de1a1ff2e823b77dbe03d0b9ef04d358"
+    },
+    {
+        "reactor_id": "245001212",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fb337a410d4d1e17b7dfb4f1f66dd013"
+    },
+    {
+        "reactor_id": "245001213",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3d8606e24b180669c753fd6c5a543d72"
+    },
+    {
+        "reactor_id": "245001214",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/91f3ac07322d858b37f9fa137717d0c8"
+    },
+    {
+        "reactor_id": "245001215",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c6f9e92f50eeb94f571dfbbba31595db"
+    },
+    {
+        "reactor_id": "245001216",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/75d3a59e0e78362f3d66f70802331d5c"
+    },
+    {
+        "reactor_id": "245001217",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/551a763e744fedf62a7b00073d2c4850"
+    },
+    {
+        "reactor_id": "245001218",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/63d0c287700961a17bd1efd0a259c6ca"
+    },
+    {
+        "reactor_id": "245001219",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8349ef4a3fd334e0efcdf700d0e0cd33"
+    },
+    {
+        "reactor_id": "245001220",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/598bc2266242b90bd58bee6c839b8520"
+    },
+    {
+        "reactor_id": "245001221",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/845213f67afe263aca4fe1062fa1408c"
+    },
+    {
+        "reactor_id": "245001222",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d62d530bc07383591bfdbc6351f373be"
+    },
+    {
+        "reactor_id": "245001223",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/246707fd047fbc7d252a11cd0b2f16fc"
+    },
+    {
+        "reactor_id": "245001224",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/882e6d90c3124932fdb3ab758c61ee77"
+    },
+    {
+        "reactor_id": "245001225",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f33fb4c0ed79899848ad127095ecf0ea"
+    },
+    {
+        "reactor_id": "245001226",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d8a81936bf8c5f1f45fbe26fd82b6b9d"
+    },
+    {
+        "reactor_id": "245001227",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9506eafb7dc86ff6eba4cd68a6711ab5"
+    },
+    {
+        "reactor_id": "245001228",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/95117c0c519dbc6d5ab96b95ceb02867"
+    },
+    {
+        "reactor_id": "245001229",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/32c662caef3fd0e25701da907e9bbae5"
+    },
+    {
+        "reactor_id": "245001230",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e08a5638b573e349a49a2efd1bd10490"
+    },
+    {
+        "reactor_id": "245001231",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9a135e3d5df0c09fabacdebd5c389d20"
+    },
+    {
+        "reactor_id": "245001232",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b400227ec472d3fe6cc78bdb732ab3d8"
+    },
+    {
+        "reactor_id": "245001233",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7c38ae79712db60ea59d46770fb37ccb"
+    },
+    {
+        "reactor_id": "245001234",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2218ede3afac02ebc621aa8c07d7c8ee"
+    },
+    {
+        "reactor_id": "245001235",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/67e935c857aaca3075e03d5b137c80be"
+    },
+    {
+        "reactor_id": "245001236",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/018d0bd20b77a6991eb534e88a6e9a21"
+    },
+    {
+        "reactor_id": "245001237",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/103e1af9c0e61288de9abbc7698c3923"
+    },
+    {
+        "reactor_id": "245001238",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e1d0e107d8c0da388126446f0aeed5ed"
+    },
+    {
+        "reactor_id": "245001239",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0c04af17bae52ad96386da096d575152"
+    },
+    {
+        "reactor_id": "245001240",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3bf969fd23785d7218c869f777bc2e29"
+    },
+    {
+        "reactor_id": "245001241",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/527e5ec19cb97c175a1ea2ec0e5c4b2f"
+    },
+    {
+        "reactor_id": "245001242",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ab81fd72b5b64b4364e8a1ab6f24bd2c"
+    },
+    {
+        "reactor_id": "245001243",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f011899307ce8db3b95dc6f11d634bc3"
+    },
+    {
+        "reactor_id": "245001244",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/698116215f489de72584b9ab9eda0ecd"
+    },
+    {
+        "reactor_id": "245001245",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/68a636a969c0d12b0a3a7b26fca08bdf"
+    },
+    {
+        "reactor_id": "245001246",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ec2510582ed7818cb925604c0b306b7d"
+    },
+    {
+        "reactor_id": "245001247",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/34de538242fbae2efa450676b009eefe"
+    },
+    {
+        "reactor_id": "245001248",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b8e0e42bfc68e592d77677c3847502ac"
+    },
+    {
+        "reactor_id": "245001249",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/95a1997bba4d17706cfadd04eb60aa86"
+    },
+    {
+        "reactor_id": "245001250",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2913edad51892fb98228ba035c7b8873"
+    },
+    {
+        "reactor_id": "245001251",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/901417bba27f634c98e50e4fa572b1aa"
+    },
+    {
+        "reactor_id": "245001252",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/910e6b135dc4a01c8b48fcd1b7851bb4"
+    },
+    {
+        "reactor_id": "245001253",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7c536b7db7ae0fdcc8f5794abd78f8d4"
+    },
+    {
+        "reactor_id": "245001254",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8cb173f490a3da4ddc3ab791c1c8e2df"
+    },
+    {
+        "reactor_id": "245001255",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d9a08dfef71b535a65bab999aef501ce"
+    },
+    {
+        "reactor_id": "245001256",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/896c376bc9e1382ee56dd8f9dc53179d"
+    },
+    {
+        "reactor_id": "245001257",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/32d9693647e016b80c537be51cd850b5"
+    },
+    {
+        "reactor_id": "245001258",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ecc54ac629bfe01961a3a4d185be1424"
+    },
+    {
+        "reactor_id": "245001259",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/81667ebaa4958c145653f2e17cd2471d"
+    },
+    {
+        "reactor_id": "245001260",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/86d03e81425f9364d4b0a4ad436a2d86"
+    },
+    {
+        "reactor_id": "245001261",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f64fd7a4c3fc63d1fabc450254af0dc8"
+    },
+    {
+        "reactor_id": "245001262",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7f4009fd029adcbeb79fa6f98180d4ff"
+    },
+    {
+        "reactor_id": "245001263",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1ad4fb526fbdde3462279a9923ef7fd4"
+    },
+    {
+        "reactor_id": "245001264",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/734e3f6686cb5b7aaabbc836050a4c20"
+    },
+    {
+        "reactor_id": "245001265",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1a13c8d01cd860848d7a2b15558989e1"
+    },
+    {
+        "reactor_id": "245001266",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4d748e1e0ebad8ff079236cac76e6821"
+    },
+    {
+        "reactor_id": "245001267",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b134b8973cc54a1c43cf8579ba4e059a"
+    },
+    {
+        "reactor_id": "245001268",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5d675e3166afa1dd010e172126b3de6b"
+    },
+    {
+        "reactor_id": "245001269",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/800dc4e523e4d3392170f39ba40c89cb"
+    },
+    {
+        "reactor_id": "245001270",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/99d2de8db70109aa096a68b7767a8553"
+    },
+    {
+        "reactor_id": "245001271",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1eca12628b69aa85707c6d60fef3202d"
+    },
+    {
+        "reactor_id": "245001272",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/aa028db02efc3c9717b946a129f9c2dd"
+    },
+    {
+        "reactor_id": "245001273",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c0947d21e789022b75a79daa0bec7af4"
+    },
+    {
+        "reactor_id": "245001274",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fcee9ef4c436e9a349ee9656cb1799d1"
+    },
+    {
+        "reactor_id": "245001275",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/695fa8eb1a74f7ef372444daec85f2b8"
+    },
+    {
+        "reactor_id": "245001276",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f92175c6925e01292c02a660f1356851"
+    },
+    {
+        "reactor_id": "245001277",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3c7d85fe93229c9472433270d7da55d1"
+    },
+    {
+        "reactor_id": "245001278",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5c1eb043cfc2464830ba6c6700e651d1"
+    },
+    {
+        "reactor_id": "245001279",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/800fe495eaf53b33dfb7f5fbeac1d5bc"
+    },
+    {
+        "reactor_id": "245001280",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/283ddd8cb3b7e791769c78226b156083"
+    },
+    {
+        "reactor_id": "245001281",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cc6368605ce3703d35c17a5c1acb0a95"
+    },
+    {
+        "reactor_id": "245001282",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b1cf57b6b78b96339d85adef75765d70"
+    },
+    {
+        "reactor_id": "245001283",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0177a4e5ef80347ecfb099a749e253d0"
+    },
+    {
+        "reactor_id": "245001284",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/40a0a66fd9ecd996e8a9a7c183fd0b37"
+    },
+    {
+        "reactor_id": "245001285",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/07e36bd407d73fef038ecfaad59eb31a"
+    },
+    {
+        "reactor_id": "245001286",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/177fc21b269f9067447daebd6e09ed03"
+    },
+    {
+        "reactor_id": "245001287",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/acaff23d5b383de67099c9522c55f06b"
+    },
+    {
+        "reactor_id": "245001288",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2f446aed965581493975648be81a64be"
+    },
+    {
+        "reactor_id": "245001289",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6fb77d6d8ba9ffd3013fbc6acf276a35"
+    },
+    {
+        "reactor_id": "245001290",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8ce7aa18e0cfe004cb4007ff65303237"
+    },
+    {
+        "reactor_id": "245001291",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1537c3c9723c83876d047379bda7f6c4"
+    },
+    {
+        "reactor_id": "245001292",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a9b74974749755fae289d8fc3e2812ba"
+    },
+    {
+        "reactor_id": "245001293",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ce16f981e1c2efdf97e437e9d3495fe9"
+    },
+    {
+        "reactor_id": "245001294",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6a91798c1d024c7e60ef67f903f7c1c3"
+    },
+    {
+        "reactor_id": "245001295",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f5077c45afb24ac4393cee4631197f6b"
+    },
+    {
+        "reactor_id": "245001296",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ae24c40ad3124cda97fbe65d3ac931c2"
+    },
+    {
+        "reactor_id": "245001297",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c7a67d52f659446d121516f1ef482d73"
+    },
+    {
+        "reactor_id": "245001298",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2d9f83eaedecd3289632f7c893b89418"
+    },
+    {
+        "reactor_id": "245001299",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ff0d9a46a9d7cb36c58c8d99705e08f5"
+    },
+    {
+        "reactor_id": "245001300",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3708682d6ddd135ec931e49f23747421"
+    },
+    {
+        "reactor_id": "245001301",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a1e4ffd6e1b664b2697b739b99581793"
+    },
+    {
+        "reactor_id": "245001302",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/80109039cf91ab4bc82a613c2c6d0272"
+    },
+    {
+        "reactor_id": "245001303",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fa9e3492a445eb161d684abcc5082c73"
+    },
+    {
+        "reactor_id": "245001304",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ad0e343d345f75e4c3ccf20e23591c60"
+    },
+    {
+        "reactor_id": "245001305",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5af55193e16932386443d3418f848510"
+    },
+    {
+        "reactor_id": "245001306",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f579ae537954a616b4fb6f8aa39fe8ff"
+    },
+    {
+        "reactor_id": "245001307",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/70360a04017195a506bb7aec2150b491"
+    },
+    {
+        "reactor_id": "245001308",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e8d34e37c57c81445fccc48f9ffc0210"
+    },
+    {
+        "reactor_id": "245001309",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3f3d2735aef802099bff7166d774649a"
+    },
+    {
+        "reactor_id": "245001310",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/07e65d9fd0dc2da8197d5c862680e0f9"
+    },
+    {
+        "reactor_id": "245001311",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/83cceb098fcb7ef7453aee23f0f949d6"
+    },
+    {
+        "reactor_id": "245001312",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/79b051f1ecc9aa71a311ada3624cf5cb"
+    },
+    {
+        "reactor_id": "245001313",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/747e6050a1ee1601d10dc65d36ee9d10"
+    },
+    {
+        "reactor_id": "245001314",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ba4d61d015376ddbcff955c2b496fbec"
+    },
+    {
+        "reactor_id": "245001315",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7f54ef4cb64cc710260180b6cf920ea1"
+    },
+    {
+        "reactor_id": "245001316",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0211f46c61f0164384599407a49a8184"
+    },
+    {
+        "reactor_id": "245001317",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4c8baae95189389291a55116a83871e8"
+    },
+    {
+        "reactor_id": "245001318",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2568074e4443d96ba0b0c6498b2dd44d"
+    },
+    {
+        "reactor_id": "245001319",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6a6e860f98b4965afca5fed35d92ff1b"
+    },
+    {
+        "reactor_id": "245001320",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0c697fdaa6dd9d6faa7011dc11d5c246"
+    },
+    {
+        "reactor_id": "245001321",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7640f69e86e3c91c143495792cae2fb7"
+    },
+    {
+        "reactor_id": "245001322",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9e31169f4c8dc0ae0b246106e167e71f"
+    },
+    {
+        "reactor_id": "245001323",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7355935c8b05c0bf7b5ecf1c48d95085"
+    },
+    {
+        "reactor_id": "245001324",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9ab0a6822c5d98bd2a453125d3149abf"
+    },
+    {
+        "reactor_id": "245001325",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1f350313da66463e74ef83fa0dcbdc3b"
+    },
+    {
+        "reactor_id": "245001326",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1cee887f3c9ccea2159c6773c87ecfb0"
+    },
+    {
+        "reactor_id": "245001327",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/84675cca022d4d96f6d46bfbac6bbe81"
+    },
+    {
+        "reactor_id": "245001328",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4af035619578ba24bac94821b125ceac"
+    },
+    {
+        "reactor_id": "245001329",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/747775784479cdfb2384f9961ba5e4c8"
+    },
+    {
+        "reactor_id": "245001330",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e7bac0e65302afbf649327cdc3a76c52"
+    },
+    {
+        "reactor_id": "245001331",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5a30181eb7950e8763b4e6b0ae6f7f4c"
+    },
+    {
+        "reactor_id": "245001332",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a8f37783b3d8ee1a92a2a20dd402b0de"
+    },
+    {
+        "reactor_id": "245001333",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1cb4eaa64d9d4ce7cac4d9d76ade65ab"
+    },
+    {
+        "reactor_id": "245001334",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bd92215e43516c9a49697ab9a5f5a882"
+    },
+    {
+        "reactor_id": "245001335",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/29521cfa5f25e1c2a4e82cd417b91265"
+    },
+    {
+        "reactor_id": "245001336",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8c228636d214bb4eecc28a156794660d"
+    },
+    {
+        "reactor_id": "245001337",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/44f355dd5c038c5c905644baf1f1f96e"
+    },
+    {
+        "reactor_id": "245001338",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/04f9741ce8a821ac1129f3d3ff6cf7c5"
+    },
+    {
+        "reactor_id": "245001339",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/15a6e8c8aebe1c7c8b2539f25d6eb150"
+    },
+    {
+        "reactor_id": "245001340",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6ebd684bee4ea61e3772974004f2ce0d"
+    },
+    {
+        "reactor_id": "245001341",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/51f9572ea6d40227b82376a5a2a122b0"
+    },
+    {
+        "reactor_id": "245001342",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0f62a95af979bb96509088ba5bb8e098"
+    },
+    {
+        "reactor_id": "245001343",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/220cadfffc8fdc83b9bc3a7fddb65650"
+    },
+    {
+        "reactor_id": "245001344",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6e183581f639d9e77f34e4df8dfddb1c"
+    },
+    {
+        "reactor_id": "245001345",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1eb109a3e3b231800e55afeb3437839a"
+    },
+    {
+        "reactor_id": "245001346",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fca3c9a3cf695837b0066c6fe30b299f"
+    },
+    {
+        "reactor_id": "245001347",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8d9f08178bc090a594da81f6a90cf72e"
+    },
+    {
+        "reactor_id": "245001348",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/eb4321bf4b409254e37cfbcadf59830f"
+    },
+    {
+        "reactor_id": "245001349",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bdb9b609b3a9b5fdda168dc1df65b12e"
+    },
+    {
+        "reactor_id": "245001350",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c57a631ef0cde7090bf83e9889ee1c9b"
+    },
+    {
+        "reactor_id": "245001351",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5d7b274b0263bea67c7feffa2627b28a"
+    },
+    {
+        "reactor_id": "245001352",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b5a9b7858765301a84f2b3896a3bd7e2"
+    },
+    {
+        "reactor_id": "245001353",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5107eb7c4869ca11f62612fa24f02389"
+    },
+    {
+        "reactor_id": "245001354",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0095fb95f350edeeec2e0511f6f587ab"
+    },
+    {
+        "reactor_id": "245001355",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2574dd6f1ae1c694b72aa2ba44479e53"
+    },
+    {
+        "reactor_id": "245001356",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7a0e9dc0ea79940f01be4967fc09ac47"
+    },
+    {
+        "reactor_id": "245001357",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9bece370058988cd08569ea2d1ba513e"
+    },
+    {
+        "reactor_id": "245001358",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9b8e39dbb33e597513d024f3397fb94a"
+    },
+    {
+        "reactor_id": "245001359",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b2975f6600ec34b83dc39f99a32c8879"
+    },
+    {
+        "reactor_id": "245001360",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/86ce4cf3dce9cab931e32bd499cdf27d"
+    },
+    {
+        "reactor_id": "245001361",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/359f238e9efee7c6d163a1b5ebb339ef"
+    },
+    {
+        "reactor_id": "245001362",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/76e23d7c00fbdcd44f03a17c842abe12"
+    },
+    {
+        "reactor_id": "245001363",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2a53799c3b0c8bf1a1687906c2bf1307"
+    },
+    {
+        "reactor_id": "245001364",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5c3112e49171862da7e1bf7342fc0a89"
+    },
+    {
+        "reactor_id": "245001365",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fceeac69ff49ce130a049a3190e75f5e"
+    },
+    {
+        "reactor_id": "245001366",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3689da5204fa252c9dacc0ebe9ba1427"
+    },
+    {
+        "reactor_id": "245001367",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a9d2d744fe700182e471a0b58fe358a8"
+    },
+    {
+        "reactor_id": "245001368",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c3c362e9bf0b6d385406cfa567b2108b"
+    },
+    {
+        "reactor_id": "245001369",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/87e164675986cd1d82bbe039012b0222"
+    },
+    {
+        "reactor_id": "245001370",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3c04cf0948dc5df8ea34184e8d85b8e2"
+    },
+    {
+        "reactor_id": "245001371",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e5e5874704e93348d6cc06ee72e21b3f"
+    },
+    {
+        "reactor_id": "245001372",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ae6b166d7028dfb95366d9beffd842d7"
+    },
+    {
+        "reactor_id": "245001373",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6fac96b37009c05f20da2cf2a2ecad77"
+    },
+    {
+        "reactor_id": "245001374",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/91812f5b2a7422ffed3b6b474644cb5f"
+    },
+    {
+        "reactor_id": "245001375",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6bcf073628915ad51f4eeee2a015b037"
+    },
+    {
+        "reactor_id": "245001376",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/892e6d8e08b1220f7f45892d0f577ec3"
+    },
+    {
+        "reactor_id": "245001377",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c03813aca54eadb3f950f3a02f8824b8"
+    },
+    {
+        "reactor_id": "245001378",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d646f71097ee3c8ac0e4800732d09d54"
+    },
+    {
+        "reactor_id": "245001379",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/98d28a4d1825773a38a54e20770ade07"
+    },
+    {
+        "reactor_id": "245001380",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e5edb2587faa35f0a8d218174ac5e753"
+    },
+    {
+        "reactor_id": "245001381",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9e00ca99fbc764d455e850f22288e605"
+    },
+    {
+        "reactor_id": "245001382",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/170bc2e0d9fcc3e497a3101a95d62d97"
+    },
+    {
+        "reactor_id": "245001383",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b960d47d93d0374d4668b11cfb323e24"
+    },
+    {
+        "reactor_id": "245001384",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fdf9ba5e958d7c2fb42349d41af41cf9"
+    },
+    {
+        "reactor_id": "245001385",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/77f587836faf955eaad6f6da9745afed"
+    },
+    {
+        "reactor_id": "245001386",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b54b5ef4070da0657d61d4d268461d96"
+    },
+    {
+        "reactor_id": "245001387",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d17cde7f9d9b0fbfd4b7233cbe3c4ecc"
+    },
+    {
+        "reactor_id": "245001388",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0b6a52feea5f9859c08d742df5991f8a"
+    },
+    {
+        "reactor_id": "245001389",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f27ffa0724dec26b844955030f973ea3"
+    },
+    {
+        "reactor_id": "245001390",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7a94aa8c31098aba934e1b2c1e8e9144"
+    },
+    {
+        "reactor_id": "245001391",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d84c285e625f580e7ef481ee54ff6489"
+    },
+    {
+        "reactor_id": "245001392",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/499ef20159dbbe07f06462ea9fdcfa2c"
+    },
+    {
+        "reactor_id": "245001393",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7d946d714f78c7a1f6ad3f85d5b67523"
+    },
+    {
+        "reactor_id": "245001394",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f199411ac6eb9a3aacebc907125ea9f9"
+    },
+    {
+        "reactor_id": "245001395",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/47363fe48d6d16c2ee626bd6ff25957b"
+    },
+    {
+        "reactor_id": "245001396",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/81c2bf54590cd2b810e35ae27f14c705"
+    },
+    {
+        "reactor_id": "245001397",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/51b4604f141e87e06c291212bd6458d2"
+    },
+    {
+        "reactor_id": "245001398",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5ea38e728c57629d4faac28546285051"
+    },
+    {
+        "reactor_id": "245001399",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5005054f9a126dad130233fd696112a2"
+    },
+    {
+        "reactor_id": "245001400",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/25cef87cadd4d67e048b740f4d4cc08e"
+    },
+    {
+        "reactor_id": "245001401",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/08566ed24ce3ad770c41e4ede0b9b887"
+    },
+    {
+        "reactor_id": "245001402",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/169585bfdaede821dade4b073c0712d7"
+    },
+    {
+        "reactor_id": "245001403",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4ac26d26c32d3fa62787bd006d6fec2a"
+    },
+    {
+        "reactor_id": "245001404",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4b6aaedb6965d5f06c4a70620ed29a79"
+    },
+    {
+        "reactor_id": "245001405",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7d33d6833e77e3c7cb233680c41e5fe9"
+    },
+    {
+        "reactor_id": "245001406",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b51cd7b271b192af2007477e325cfc53"
+    },
+    {
+        "reactor_id": "245001407",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a996aad3d7e796d285e7bf5ac09d5fbe"
+    },
+    {
+        "reactor_id": "245001408",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e5c3652d45538d63b669df3afe52c1d0"
+    },
+    {
+        "reactor_id": "245001409",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cc791d4b0c8255e872d9880761331a60"
+    },
+    {
+        "reactor_id": "245001410",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/74376bb154b11ca807d139f0f3c4782f"
+    },
+    {
+        "reactor_id": "245001411",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/013bfa46d3acb659951085cc444c4a89"
+    },
+    {
+        "reactor_id": "245001412",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fcce8422fb9e956ef5669a8ad34d2373"
+    },
+    {
+        "reactor_id": "245001413",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cb73d79d282fbe97607302f8738a41ee"
+    },
+    {
+        "reactor_id": "245001414",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8ed27853c1cc2da7adb18dba8ce5222e"
+    },
+    {
+        "reactor_id": "245001415",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b00cb3da5dba4add04ff67839cab2a3a"
+    },
+    {
+        "reactor_id": "245001416",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fd3303bb7619b6fb9585628ea0526c80"
+    },
+    {
+        "reactor_id": "245001417",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1d1e9f1a3e2b95a21a0435d2e0f7ccf1"
+    },
+    {
+        "reactor_id": "245001418",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6d61595a3c0c2ad9e35c20427c377616"
+    },
+    {
+        "reactor_id": "245001419",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/07ccdf4acb9a733d0a906d0b457f6b88"
+    },
+    {
+        "reactor_id": "245001420",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/121818687b99254b71c117c60804564a"
+    },
+    {
+        "reactor_id": "245001421",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/10404db5e6df0b09d2f75d56e13980b6"
+    },
+    {
+        "reactor_id": "245001422",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/79baa86c2608b63494ff86f0c34dc06d"
+    },
+    {
+        "reactor_id": "245001423",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5a2eece74faaeb8272bf928e9ff1e658"
+    },
+    {
+        "reactor_id": "245001424",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/77a6c5c98d9c50cd11f81f92e1cb99c5"
+    },
+    {
+        "reactor_id": "245001425",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8bb763b1a4b43bdc8cc48f089c2b7d3f"
+    },
+    {
+        "reactor_id": "245001426",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a05966a3d6308cd493f203dbd1d7cde2"
+    },
+    {
+        "reactor_id": "245001427",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1bf5943a0fe524a8c3af1e12fd1063eb"
+    },
+    {
+        "reactor_id": "245001428",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/31e429e2a79adeaa507b6c1b575411ed"
+    },
+    {
+        "reactor_id": "245001429",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d46b9f20fe9713c39a2d3408c0658aea"
+    },
+    {
+        "reactor_id": "245001430",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/897627e683e43ee1f7b2f226409cc642"
+    },
+    {
+        "reactor_id": "245001431",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b85c33956ca267e5af11557b9b9413ea"
+    },
+    {
+        "reactor_id": "245001432",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0c7babf437967a7c9d2165f515ed0f52"
+    },
+    {
+        "reactor_id": "245001433",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/17f91d6030933f650f17db63e5d9a0bc"
+    },
+    {
+        "reactor_id": "245001434",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d12b1b065d35041a3c1f47d42ad99ba2"
+    },
+    {
+        "reactor_id": "245001435",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e194bd6da30952582c72f578e1839cf1"
+    },
+    {
+        "reactor_id": "245001436",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/dcd9a39e10356469e4666bca039f97ae"
+    },
+    {
+        "reactor_id": "245001437",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a512465b90a9e7630496e915bbf01605"
+    },
+    {
+        "reactor_id": "245001438",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1d1946ff46c8d4e84b78f626ebece38c"
+    },
+    {
+        "reactor_id": "245001439",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0bd2f456ce75390df703ad84b118d7a0"
+    },
+    {
+        "reactor_id": "245001440",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0c52628a49420e2c1bbd90126b576170"
+    },
+    {
+        "reactor_id": "245001441",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/da47014f0b85a8802ddc691c57587fd2"
+    },
+    {
+        "reactor_id": "245001442",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/33314990e9f8fa6e2eb53a1767612349"
+    },
+    {
+        "reactor_id": "245001443",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/279277313b8426715106f8ded10e9251"
+    },
+    {
+        "reactor_id": "245001444",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6a78ee1a6cafafa8c92a7af9f70e6208"
+    },
+    {
+        "reactor_id": "245001445",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6f1c7aa26b88183b5fc0caaaf43f8e16"
+    },
+    {
+        "reactor_id": "245001446",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d44b539c99e7ca01dba0015dabacb789"
+    },
+    {
+        "reactor_id": "245001447",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b4fd78ef4ab87f14f86d6559f1e6edc4"
+    },
+    {
+        "reactor_id": "245001448",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/28ea77c5cbb5cb5bfea58fce7f0ccd9d"
+    },
+    {
+        "reactor_id": "245001449",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4a53dd565ca33f20ca4dcdae20e1e4c5"
+    },
+    {
+        "reactor_id": "245001450",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ee4238e11e4155bace1305beab26cadc"
+    },
+    {
+        "reactor_id": "245001451",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f917253c4033c7bc8ecde36ed8023577"
+    },
+    {
+        "reactor_id": "245001452",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f284ac088380d253183797a98735c2f7"
+    },
+    {
+        "reactor_id": "245001453",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e48f305af77c38ae494ccf3dac3ad76a"
+    },
+    {
+        "reactor_id": "245001454",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7cfbc9d8cddc39ea9442c4c01c9e78e3"
+    },
+    {
+        "reactor_id": "245001455",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fd4d061e0b23d8aee91b260fa3309a14"
+    },
+    {
+        "reactor_id": "245001456",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6f2112f4481263d678dada716115e13f"
+    },
+    {
+        "reactor_id": "245001457",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4ebd27084d02fe2bf7283e57a246ee27"
+    },
+    {
+        "reactor_id": "245001458",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bb7b0247a41d821bd5693ecd7717c91a"
+    },
+    {
+        "reactor_id": "245001459",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c7395dd3d5878a935776c436525fe5e1"
+    },
+    {
+        "reactor_id": "245001460",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ff036519c9ff90a550c620ad2e4ac9a8"
+    },
+    {
+        "reactor_id": "245001461",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e67a3cbf8a020c33dcbb4f2128ebad6b"
+    },
+    {
+        "reactor_id": "245001462",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c4dbf5b0c5616f58dd2f6d14b8c79318"
+    },
+    {
+        "reactor_id": "245001463",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a44d2d3aad6d87ef915a67bd90f11c60"
+    },
+    {
+        "reactor_id": "245001464",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0e83cff570339be66048c58999825213"
+    },
+    {
+        "reactor_id": "245001465",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4e9b63c0475123046b6160faf5b5fb35"
+    },
+    {
+        "reactor_id": "245001466",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/78f69f5241783e819c51f71c471d51d2"
+    },
+    {
+        "reactor_id": "245001467",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/357721286fb9b3ce69abc957565d3b00"
+    },
+    {
+        "reactor_id": "245001468",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6b345a4e6f94635e02c80ee1b16cd5e6"
+    },
+    {
+        "reactor_id": "245001469",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/61394d2cdf2843e56596d3a5d5e39077"
+    },
+    {
+        "reactor_id": "245001470",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7090fb187ab9d5a6b0d7548b4d6b5766"
+    },
+    {
+        "reactor_id": "245001471",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/20efc04c8f5c2aec2a3c12da8250f611"
+    },
+    {
+        "reactor_id": "245001472",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d6c38535b5c8c64615b5de526adcc4b5"
+    },
+    {
+        "reactor_id": "245001473",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/aed40ebed31571e3f21bff8bbaac1af0"
+    },
+    {
+        "reactor_id": "245001474",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bac7fcfd090e3b87e2e3534aa1c1b4bf"
+    },
+    {
+        "reactor_id": "245001475",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/673655c78336cb71b1432175bb987b60"
+    },
+    {
+        "reactor_id": "245001476",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2a3aee3e738a80195e0b88a1f806b857"
+    },
+    {
+        "reactor_id": "245001477",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/69d3d0abdb8e83c98429bffbb527a491"
+    },
+    {
+        "reactor_id": "245001478",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/42acf76cd5dd2ee6f6eb0daa5992929c"
+    },
+    {
+        "reactor_id": "245001479",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/43af85e6ea4e60a835d330253463ef51"
+    },
+    {
+        "reactor_id": "245001480",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/93f0fd3af635de6f13aa9eeb56701a37"
+    },
+    {
+        "reactor_id": "245001481",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b5c2b184df4b12a3e4f697aeb9d9218b"
+    },
+    {
+        "reactor_id": "245001482",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1a7f9d08d751146e3fba02d29b9e8813"
+    },
+    {
+        "reactor_id": "245001483",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3c142066c12ce79b603ca9eb0690bfb4"
+    },
+    {
+        "reactor_id": "245001484",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/842295a8fc8a29844800dc0c40b4e6ae"
+    },
+    {
+        "reactor_id": "245001485",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8bfaa082639c22e6ad00fc259ca96784"
+    },
+    {
+        "reactor_id": "245001486",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e8d0959e9bdf790404e748c5ef6f9f9f"
+    },
+    {
+        "reactor_id": "245001487",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/832b97eb99baf6b8a6757b2bdcd36957"
+    },
+    {
+        "reactor_id": "245001488",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b0f2e6b076c957ec5e96bdfbfb43edd4"
+    },
+    {
+        "reactor_id": "245001489",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4364584a5062253cc220b74b76d046a9"
+    },
+    {
+        "reactor_id": "245001490",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/402882e034233c72c26dcdb02326785b"
+    },
+    {
+        "reactor_id": "245001491",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/659e3e8e9c7f2adf2e52c1398e3366d6"
+    },
+    {
+        "reactor_id": "245001492",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/107d5c4033b3af9edfed30879e842d80"
+    },
+    {
+        "reactor_id": "245001493",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/91e4827ec6a201f56182902ad294fbb0"
+    },
+    {
+        "reactor_id": "245001494",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1ff0998bf6fdf487effded872707df59"
+    },
+    {
+        "reactor_id": "245001495",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8d09a7f2a4187f5122e5552ec3f0fb98"
+    },
+    {
+        "reactor_id": "245001496",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e392d50a044e62d82ba16e84e11735bd"
+    },
+    {
+        "reactor_id": "245001497",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6142ce915ae4927c7881470c4c3aa2ac"
+    },
+    {
+        "reactor_id": "245001498",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8a223098f5c20f8fae2c24f892defcfa"
+    },
+    {
+        "reactor_id": "245001499",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/baf2058ab369b2ca51724ac2e6c448a5"
+    },
+    {
+        "reactor_id": "245001500",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/949d0d70662c1885052999bb9f535bfb"
+    },
+    {
+        "reactor_id": "245001501",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1778282baaee9b4b0fde836962849253"
+    },
+    {
+        "reactor_id": "245001502",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/88e114c6239a8125cab7bb30125a7371"
+    },
+    {
+        "reactor_id": "245001503",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f8b12393c03a7f5343053b7f44b90c03"
+    },
+    {
+        "reactor_id": "245001504",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7db7105a2d16752ea64905c6bf79c42d"
+    },
+    {
+        "reactor_id": "245001505",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d44b0de739119ebd56fea3bc3e0ead15"
+    },
+    {
+        "reactor_id": "245001506",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d9cfb7b5ba431870c6693d9bded55303"
+    },
+    {
+        "reactor_id": "245001507",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4c4514dfca69f8f0ccc6ec49c0a12bd8"
+    },
+    {
+        "reactor_id": "245001508",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1a945577cd0893170963f5372e37dfc6"
+    },
+    {
+        "reactor_id": "245001509",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5e401247f0f6a0425f04afdabf80dab5"
+    },
+    {
+        "reactor_id": "245001510",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1d0546aaa3a74eb00d8e2c820e5daf91"
+    },
+    {
+        "reactor_id": "245001511",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/771737aa6d44b5e0c2f3940bddaedab0"
+    },
+    {
+        "reactor_id": "245001512",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/00bcee83dd5f0a66d23dd3ca64c26dec"
+    },
+    {
+        "reactor_id": "245001513",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f2fe143888de3519e3d84a34ffae8127"
+    },
+    {
+        "reactor_id": "245001514",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d1faf62c997fb83a9d2939458d5f16bd"
+    },
+    {
+        "reactor_id": "245001515",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1be070cdc3d2f7a17bf4fee0d62cdafe"
+    },
+    {
+        "reactor_id": "245001516",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7aa6ba99b141e6fcf63ad3f23bd663de"
+    },
+    {
+        "reactor_id": "245001517",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1d5372c3bde375a7e20cde3bf0e5f35a"
+    },
+    {
+        "reactor_id": "245001518",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ebee2644659c96f268d3f4eab45b4ca0"
+    },
+    {
+        "reactor_id": "245001519",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a782e5eda8ecd52f9ed6eb3d121a4fd3"
+    },
+    {
+        "reactor_id": "245001520",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d378e99edd38f692a286db06d6497bad"
+    },
+    {
+        "reactor_id": "245001521",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d1036f32de2d5388802f1bf0c75eef40"
+    },
+    {
+        "reactor_id": "245001522",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/be97ec732f2da4673cf67339c556277f"
+    },
+    {
+        "reactor_id": "245001523",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2bf2dbcaf79f73799db1b2939842316e"
+    },
+    {
+        "reactor_id": "245001524",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/891220b54ed6863f3ca1f00490c77bfb"
+    },
+    {
+        "reactor_id": "245001525",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/43099da40c380a0704dcff787a760973"
+    },
+    {
+        "reactor_id": "245001526",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bc81e6b0de664f10df5bb0f63557651b"
+    },
+    {
+        "reactor_id": "245001527",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/84208f4450a5e43d1565cba6c009a39b"
+    },
+    {
+        "reactor_id": "245001528",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ec70d38716da63e732c8e5b944a624c0"
+    },
+    {
+        "reactor_id": "245001529",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/79d46e22d02441a5a6f5fecd9fe45e77"
+    },
+    {
+        "reactor_id": "245001530",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e4357a7f5424e738b0ee3d71b71d284d"
+    },
+    {
+        "reactor_id": "245001531",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/92c64117d04a731319b772c21147697d"
+    },
+    {
+        "reactor_id": "245001532",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/309994bda7edf1783d34a8667474667b"
+    },
+    {
+        "reactor_id": "245001533",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8429b4366d8932843080da6d954d8e5d"
+    },
+    {
+        "reactor_id": "245001534",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/59a35ba8f198b2ad7e22d7d1ae66f3e8"
+    },
+    {
+        "reactor_id": "245001535",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/27d92d4e358fedf2bffd035c83a271fd"
+    },
+    {
+        "reactor_id": "245001536",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b3c2fa112a817e060e945fa8c94ba7cb"
+    },
+    {
+        "reactor_id": "245001537",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2a12a5e32e7d3943442c9970f08c0b6e"
+    },
+    {
+        "reactor_id": "245001538",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/352c6594654112914b68f304dfd31af2"
+    },
+    {
+        "reactor_id": "245001539",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5ccf0226dd457c874842bc949d9d8feb"
+    },
+    {
+        "reactor_id": "245001540",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/86050244ff16867ff9f15cb60543bdc7"
+    },
+    {
+        "reactor_id": "245001541",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f890d38dbc1d4b52ff547933939729a3"
+    },
+    {
+        "reactor_id": "245001542",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b4fe61bfeec138e6a80940d38dc80b17"
+    },
+    {
+        "reactor_id": "245001543",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/442af21817024ab9651b048bc8ff8777"
+    },
+    {
+        "reactor_id": "245001544",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2018f3cc9fadc455caf72c9714b3e6d4"
+    },
+    {
+        "reactor_id": "245001545",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3e8e0187e87823e5801e8fe2e7829f85"
+    },
+    {
+        "reactor_id": "245001546",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f051ababeb4a6ec1f3d4f9160923409c"
+    },
+    {
+        "reactor_id": "245001547",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/56be99e77606a620edf5df3f3c82d03c"
+    },
+    {
+        "reactor_id": "245001548",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e7969a2163a9ce035266aa53c8a79ff8"
+    },
+    {
+        "reactor_id": "245001549",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8a646885a0df687995e26a132eef9ab1"
+    },
+    {
+        "reactor_id": "245001550",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a89479e3d537f6702a3d4f1d22bb8f3e"
+    },
+    {
+        "reactor_id": "245001551",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/80da7360e0a75044920d641b3eda8908"
+    },
+    {
+        "reactor_id": "245001552",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9cb079234f17bf76b6e9db5f0ce9f257"
+    },
+    {
+        "reactor_id": "245001553",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/307b87e64fcd5c2179648b44e95bb973"
+    },
+    {
+        "reactor_id": "245001554",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f5ecfdc200aff82fd68c06f8cf6e359f"
+    },
+    {
+        "reactor_id": "245001555",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1dbd8abcd6c476d7dc88c8e0bb5d90e7"
+    },
+    {
+        "reactor_id": "245001556",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b1332c13d6d56f2dea9477416f866383"
+    },
+    {
+        "reactor_id": "245001557",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/57cfb850a26eb6f7052b5a3784b28a7b"
+    },
+    {
+        "reactor_id": "245001558",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c1d70a4e03fe1b20872b52f01e1554b7"
+    },
+    {
+        "reactor_id": "245001559",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b1a369107e9f651a4c7ca3d4042f1dc3"
+    },
+    {
+        "reactor_id": "245001560",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2e32a70ad554c335a5bad1ee809a946d"
+    },
+    {
+        "reactor_id": "245001561",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a4aa8e4c499a91e09ca18bf70e02ef40"
+    },
+    {
+        "reactor_id": "245001562",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/acf6d4614aaf4cc86f9ae55ec620e653"
+    },
+    {
+        "reactor_id": "245001563",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/19414d1561a5e457a221f160c9e0594b"
+    },
+    {
+        "reactor_id": "245001564",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/78334961444cf96a23dad2b9875f4084"
+    },
+    {
+        "reactor_id": "245001565",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b99f3aaba8b896233d43d5abaccadf32"
+    },
+    {
+        "reactor_id": "245001566",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e560047e96ad95ae1aa64e60dc542a83"
+    },
+    {
+        "reactor_id": "245001567",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/79fc4e0c99954cc1e439af30a1017d29"
+    },
+    {
+        "reactor_id": "245001568",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b791fa24e4c52fa13d6dc821c9ad5ae3"
+    },
+    {
+        "reactor_id": "245001569",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b65dc2acd07439cf5f5398ba2dc8bde6"
+    },
+    {
+        "reactor_id": "245001570",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/10c7ee34b85a883f671f25aff1dbcec8"
+    },
+    {
+        "reactor_id": "245001571",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1a28c90bb108eeb490f5fada4fcc529f"
+    },
+    {
+        "reactor_id": "245001572",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2fc08e5e359396d6d13699d9d826384a"
+    },
+    {
+        "reactor_id": "245001573",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2390a4c3a336d1946cbb57757c6c01a6"
+    },
+    {
+        "reactor_id": "245001574",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/96f0247ce31d547153f5835ea7792e05"
+    },
+    {
+        "reactor_id": "245001575",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d4d3cfa59509b6e86799bd4bac3f440c"
+    },
+    {
+        "reactor_id": "245001576",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e23f9071029e722b97c91532100c80ac"
+    },
+    {
+        "reactor_id": "245001577",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/95b49c93e798ad4612b84a41436dd4c5"
+    },
+    {
+        "reactor_id": "245001578",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c42a51c04dc629065fd02851f649f9e3"
+    },
+    {
+        "reactor_id": "245001579",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/61f60b0c4fd150be81c0a01421f33c7f"
+    },
+    {
+        "reactor_id": "245001580",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/19dfec90cd3e6f12dbd065483c0decb9"
+    },
+    {
+        "reactor_id": "245001581",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6dafaafacd1fb1660b6b3ef8d3fe794a"
+    },
+    {
+        "reactor_id": "245001582",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c4e11d52866d4b40444e721307c63853"
+    },
+    {
+        "reactor_id": "245001583",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fccb68a7a1c8108cabb34ac7a2712cf4"
+    },
+    {
+        "reactor_id": "245001584",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/09d7f9560716c1533b96d5d82d284365"
+    },
+    {
+        "reactor_id": "245001585",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f252ebec7133b88defd6e24abc6ca388"
+    },
+    {
+        "reactor_id": "245001586",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/58dedf6577f696ec71a32c87023129f2"
+    },
+    {
+        "reactor_id": "245001587",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f196dd1392cc37c7b0d7439f673d4a83"
+    },
+    {
+        "reactor_id": "245001588",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7a727797b5ef1b327751f5f3c33185a0"
+    },
+    {
+        "reactor_id": "245001589",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f52dbdecef759282f2003c16701a410c"
+    },
+    {
+        "reactor_id": "245001590",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/938fbed2fb7a81d5a212c3d89c65afef"
+    },
+    {
+        "reactor_id": "245001591",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7f1570e946e4116154f2915416c59cde"
+    },
+    {
+        "reactor_id": "245001592",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9b344b4b7f63733df4b699297732b3a9"
+    },
+    {
+        "reactor_id": "245001593",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a50a08809ea792b4ce0c216b6921a4dd"
+    },
+    {
+        "reactor_id": "245001594",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4340f1c02a3c01bed61e4e5cb866b691"
+    },
+    {
+        "reactor_id": "245001595",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b0643ba10964e0a7c9e886ae4f175706"
+    },
+    {
+        "reactor_id": "245001596",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b1faf4b6ea5f49481ad3b988f6918c77"
+    },
+    {
+        "reactor_id": "245001597",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1ed69cde457559b63daf980a8558d8aa"
+    },
+    {
+        "reactor_id": "245001598",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3845d0e011fe23d854271a021bb93623"
+    },
+    {
+        "reactor_id": "245001599",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9d529f343136c63b4fe65d893c80fb4d"
+    },
+    {
+        "reactor_id": "245001600",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7bb95d76d07dd9f2b2ca3b27e2013cf7"
+    },
+    {
+        "reactor_id": "245001601",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/357f488b03d108b1cbeafcba86c6f01c"
+    },
+    {
+        "reactor_id": "245001602",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0c8cd11c39bd818ee6f72a6b54c352b0"
+    },
+    {
+        "reactor_id": "245001603",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1f093b16d3d7f6108a7fa24707f82563"
+    },
+    {
+        "reactor_id": "245001604",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5eb714b9de7194af83763534e740a39b"
+    },
+    {
+        "reactor_id": "245001605",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9f80ce9d5bdce2c0088f1af82093a47f"
+    },
+    {
+        "reactor_id": "245001606",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c67e1cec4303e6932200531a4bee7da2"
+    },
+    {
+        "reactor_id": "245001607",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2c551cf467245f57c21acb7ea1d3f4c7"
+    },
+    {
+        "reactor_id": "245001608",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a41eb3ef72843deb6830119eeb3042a8"
+    },
+    {
+        "reactor_id": "245001609",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/51a197bfb6b88f06807b2a8bcd1257f3"
+    },
+    {
+        "reactor_id": "245001610",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4a80b36f8967b76c24ad148b75cbde7f"
+    },
+    {
+        "reactor_id": "245001611",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7948518ee668a6c6bf498c48ec7956d7"
+    },
+    {
+        "reactor_id": "245001612",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9fbf60c079a58fb5545e1471971db70b"
+    },
+    {
+        "reactor_id": "245001613",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e2448cfee98723f6ba079ea1aab310ee"
+    },
+    {
+        "reactor_id": "245001614",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6f46c1b5fa99c28791ef56d3faa86e70"
+    },
+    {
+        "reactor_id": "245001615",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5e199324be846d908adc87e04728c775"
+    },
+    {
+        "reactor_id": "245001616",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/568c21110dca97dd862ec495426f8f87"
+    },
+    {
+        "reactor_id": "245001617",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/843d7d714d96df4d5cc2ace58e522967"
+    },
+    {
+        "reactor_id": "245001618",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fed0ab47d13f760efe92611521ee8459"
+    },
+    {
+        "reactor_id": "245001619",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/70585dd6521012e4275074266f76dc03"
+    },
+    {
+        "reactor_id": "245001620",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/68828dd4e45d9241ce5a78b4ac24cc7e"
+    },
+    {
+        "reactor_id": "245001621",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a0631c6d1bf79a851585bac83b3d08fc"
+    },
+    {
+        "reactor_id": "245001622",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/14e2b48baeff375e36f02cfbd9d2b6f9"
+    },
+    {
+        "reactor_id": "245001623",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f8ac922c3bb62987e1dda89dd105e07b"
+    },
+    {
+        "reactor_id": "245001624",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/983a55c6ef16f149e960a2c49150e924"
+    },
+    {
+        "reactor_id": "245001625",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b618786978810738c11195c278e9af4f"
+    },
+    {
+        "reactor_id": "245001626",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/200bafb47c9bad64c6b6f9bcd7dc717d"
+    },
+    {
+        "reactor_id": "245001627",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4f4ff536bfd46c8729425a6a841250ba"
+    },
+    {
+        "reactor_id": "245001628",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1f603e49ab5e8e979b25388e432f0e5c"
+    },
+    {
+        "reactor_id": "245001629",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/62db68ccd99ff0459cb0f6001a58aa05"
+    },
+    {
+        "reactor_id": "245001630",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a013465f653d26dffd0ae94aa7cbc717"
+    },
+    {
+        "reactor_id": "245001631",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b3a3612288d090965b05527d9dbe56b7"
+    },
+    {
+        "reactor_id": "245001632",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4c9cb35355127de868f94b5310dc95a3"
+    },
+    {
+        "reactor_id": "245001633",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/93b120f032aef9e64f10477ce252a0d8"
+    },
+    {
+        "reactor_id": "245001634",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/30bc7a23e1b7045e0c7e9f79828a88b1"
+    },
+    {
+        "reactor_id": "245001635",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d5d85bc260b652ea752bf2fcd6d30da6"
+    },
+    {
+        "reactor_id": "245001636",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/99c5deebf283d0dd91e535384c422a70"
+    },
+    {
+        "reactor_id": "245001637",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/57924cb082d2b326ec0e39ca7f78a650"
+    },
+    {
+        "reactor_id": "245001638",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5177d1d749ec071b65dbfd5b46f0633f"
+    },
+    {
+        "reactor_id": "245001639",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c93b83f59ba40c7ff786cd2e3690d1ff"
+    },
+    {
+        "reactor_id": "245001640",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4a7137b36fa827519f6001fd075b5016"
+    },
+    {
+        "reactor_id": "245001641",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1e8ce18a10c5a3acf679f449a74a3274"
+    },
+    {
+        "reactor_id": "245001642",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/01693acd88e03d2fa5c12d238cf485e4"
+    },
+    {
+        "reactor_id": "245001643",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/299172518482cc0f6af7ad94a5e5b75e"
+    },
+    {
+        "reactor_id": "245001644",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3dc8d451204f0624acc0028c39ad9e27"
+    },
+    {
+        "reactor_id": "245001645",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/30fe3a922eaf650676d9eab00ff636ad"
+    },
+    {
+        "reactor_id": "245001646",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/db36ea876ac2d914a90277d1fe94a02b"
+    },
+    {
+        "reactor_id": "245001647",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7fde399ca26b07cabc4d3660b46a7a37"
+    },
+    {
+        "reactor_id": "245001648",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6fc4a1fe458c34231bd955e2b8f16ed9"
+    },
+    {
+        "reactor_id": "245001649",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/294cb7f26b6022eae60b60d642ad3884"
+    },
+    {
+        "reactor_id": "245001650",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a27b4a8d7aa088f075c028f225993f77"
+    },
+    {
+        "reactor_id": "245001651",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/67a8862e11b589c8434e5d4663e2ee50"
+    },
+    {
+        "reactor_id": "245001652",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e75951cd6c3c9503fafda62dbc9f9d62"
+    },
+    {
+        "reactor_id": "245001653",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5f5c1f30770434d1bc8b49ebfc1de331"
+    },
+    {
+        "reactor_id": "245001654",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4fd016a4749b706745df8cb2f59fd1aa"
+    },
+    {
+        "reactor_id": "245001655",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3dbba9dbd76c4d49f18cb6a43fae97c9"
+    },
+    {
+        "reactor_id": "245001656",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5aeb76eb659bf4b886fc108a5781b06b"
+    },
+    {
+        "reactor_id": "245001657",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/54b98f72d14051dfb1df75abb13c6649"
+    },
+    {
+        "reactor_id": "245001658",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/04ec41a0c0ab05a9308d1d38615890c6"
+    },
+    {
+        "reactor_id": "245001659",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9161ff935fc900c1a9ff78bef710064e"
+    },
+    {
+        "reactor_id": "245001660",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f33954fa9603ec23bb7f128b513a3333"
+    },
+    {
+        "reactor_id": "245001661",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/53da0573df1d5ad96980bb044a3f9381"
+    },
+    {
+        "reactor_id": "245001662",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/09f6c952a977fd27026446c1e54869d7"
+    },
+    {
+        "reactor_id": "245001663",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cd1077eae254fe3716fa3375b0951b36"
+    },
+    {
+        "reactor_id": "245001664",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/54a7bbb12c8ebac5e7b6319aea567bd0"
+    },
+    {
+        "reactor_id": "245001665",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d4366019d0e730656b4da427ce135826"
+    },
+    {
+        "reactor_id": "245001666",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4ab2638e81c6be351c22a66179496121"
+    },
+    {
+        "reactor_id": "245001667",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ad9880be5de2ff0b4bff066efe3446be"
+    },
+    {
+        "reactor_id": "245001668",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/941e8b411f11d203a3405e81b4c2dd1a"
+    },
+    {
+        "reactor_id": "245001669",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2428e39065d4007b6c1f8d618fdf181e"
+    },
+    {
+        "reactor_id": "245001670",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/671b31dee06c8412256b3ac3a6d8ee56"
+    },
+    {
+        "reactor_id": "245001671",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a52e3110146ee32d50097cae696bcacd"
+    },
+    {
+        "reactor_id": "245001672",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/42eb55d0caceae92c740cbb0bbde16f9"
+    },
+    {
+        "reactor_id": "245001673",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/45aee14c454c4cfa90459f97f85b3177"
+    },
+    {
+        "reactor_id": "245001674",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8b0f711b61fccf27bc1d7f215b56e970"
+    },
+    {
+        "reactor_id": "245001675",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/546cbd802980682a405457a997c3aa50"
+    },
+    {
+        "reactor_id": "245001676",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ed2ba6af1d18db9fda4c34d30c4a91e5"
+    },
+    {
+        "reactor_id": "245001677",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ba355d71470cfc8d0b256c5e5f418483"
+    },
+    {
+        "reactor_id": "245001678",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/042f0bfda2c3e3be44f9e1a82141cef1"
+    },
+    {
+        "reactor_id": "245001679",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a5980e97bb34d4d9b2d62204e044e08a"
+    },
+    {
+        "reactor_id": "245001680",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/43a859c099d8ec656b1ca8d7fab77f94"
+    },
+    {
+        "reactor_id": "245001681",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/90bfbf1fa4bdb87087f7744b96b46aac"
+    },
+    {
+        "reactor_id": "245001682",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4eb6607d6fd6cd0faf910a0a340dd9b1"
+    },
+    {
+        "reactor_id": "245001683",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/67b10aa8b1e0ed1de993710c1a005ab4"
+    },
+    {
+        "reactor_id": "245001684",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a6f19e9f9762141c33509e4207cb6526"
+    },
+    {
+        "reactor_id": "245001685",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/11b86d5fc112b8ab7a5d3e124f3cf287"
+    },
+    {
+        "reactor_id": "245001686",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9cbc7611153790f08966172fe7ad02f0"
+    },
+    {
+        "reactor_id": "245001687",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c815cf13f24b1cf072ece5b3fb05f18b"
+    },
+    {
+        "reactor_id": "245001688",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/df7ced5cce90b765698828980397bfd6"
+    },
+    {
+        "reactor_id": "245001689",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/178aa5c2b33b76a37ff6221ea0bd3bc3"
+    },
+    {
+        "reactor_id": "245001690",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9735f1255fb4c91bb0b7fefc1e6d43d8"
+    },
+    {
+        "reactor_id": "245001691",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0604dd79e37a75842415671c1191e145"
+    },
+    {
+        "reactor_id": "245001692",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1ce284585ada52381b650c35d79dc029"
+    },
+    {
+        "reactor_id": "245001693",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a1d44b84e8c458c861974811c461ae66"
+    },
+    {
+        "reactor_id": "245001694",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4031f9ed76627a8ed96821829b82842d"
+    },
+    {
+        "reactor_id": "245001695",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e24d7ac7a3b4ab3cd12177104ed23ac4"
+    },
+    {
+        "reactor_id": "245001696",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7fdae646e9d27cc6d4da758d51bc0aec"
+    },
+    {
+        "reactor_id": "245001697",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4c9b105e4cb9d0d6753eae03671965b6"
+    },
+    {
+        "reactor_id": "245001698",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b3ddd80beaf72b6605bd1c0434ba3b08"
+    },
+    {
+        "reactor_id": "245001699",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/13f2d43230d14abb407e718b323de435"
+    },
+    {
+        "reactor_id": "245001700",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/01ece93f9b8f5a35fdfedfc7a790a4b6"
+    },
+    {
+        "reactor_id": "245001701",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/165c9d5edbaa5ebff3a9d6b3b88cf330"
+    },
+    {
+        "reactor_id": "245001702",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cf1020982c0f2e8cea20ef13d1601b7d"
+    },
+    {
+        "reactor_id": "245001703",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/814f0a74ef4da01a96243dc6427bb706"
+    },
+    {
+        "reactor_id": "245001704",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3ac659e2251c134e034f5e8c38de5e91"
+    },
+    {
+        "reactor_id": "245001705",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a06cb22418950b5cd09b4cf627107775"
+    },
+    {
+        "reactor_id": "245001706",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7f1c7d47883beb260b01bc6094980b2b"
+    },
+    {
+        "reactor_id": "245001707",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/66005250474ac4831810e4b685f281f2"
+    },
+    {
+        "reactor_id": "245001708",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1e3a2d080c8830856eeaf7e4eab15550"
+    },
+    {
+        "reactor_id": "245001709",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/79da98a8cfd9df0fe4aa21f4920e86b7"
+    },
+    {
+        "reactor_id": "245001710",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e17909921d5f4d5d429db1a907a97d35"
+    },
+    {
+        "reactor_id": "245001711",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3b61386ebaf655dae0233b730f500062"
+    },
+    {
+        "reactor_id": "245001712",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8c1837778a0c9ed4e82cb6d8d4bb040c"
+    },
+    {
+        "reactor_id": "245001713",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8b1f3809dc6fc126bf228e1796490f53"
+    },
+    {
+        "reactor_id": "245001714",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/236472426eeceda8bb2994489598b7d6"
+    },
+    {
+        "reactor_id": "245001715",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b971e45b6af9828c83f225024f546d98"
+    },
+    {
+        "reactor_id": "245001716",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c29edaeabf5dfba11320d025684c5597"
+    },
+    {
+        "reactor_id": "245001717",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c080eddc45dd6664703e20694fc568ed"
+    },
+    {
+        "reactor_id": "245001718",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/80a4cd27433e9e513587ee544d2cdb03"
+    },
+    {
+        "reactor_id": "245001719",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c208c1d82c2fbc090136d904e6e3bac7"
+    },
+    {
+        "reactor_id": "245001720",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1a075e0ae03b1bc2266cdc8ee53d2207"
+    },
+    {
+        "reactor_id": "245001721",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ea7e3342bfe0dbd4f3b3746a3fb4d256"
+    },
+    {
+        "reactor_id": "245001722",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0e5d899cc434c9ce252a7b14db1ab2f8"
+    },
+    {
+        "reactor_id": "245001723",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/112aa1e19533c7c3a9264a75d6059008"
+    },
+    {
+        "reactor_id": "245001724",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1ecb8bdebf6909f4f77c6c56373d591c"
+    },
+    {
+        "reactor_id": "245001725",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b6c930651d0b64009e1a5a29b31b9f2a"
+    },
+    {
+        "reactor_id": "245001726",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cfc416f6a76fd2ab99a3f40d9df0ebeb"
+    },
+    {
+        "reactor_id": "245001727",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/865141cafe10f3f7e675594b7f5256fe"
+    },
+    {
+        "reactor_id": "245001728",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4287f9b12a13c14b590db7a157d91b02"
+    },
+    {
+        "reactor_id": "245001729",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5092b8a561f0dabb7f8e4e84b178f847"
+    },
+    {
+        "reactor_id": "245001730",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/93ebe1807eec05ceccf3fb9ff7460d21"
+    },
+    {
+        "reactor_id": "245001731",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d59c2f4590436da5a2858f4e6f5f744d"
+    },
+    {
+        "reactor_id": "245001732",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1e252b54e1172eb08b4fc781d7b29792"
+    },
+    {
+        "reactor_id": "245001733",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/73e783928d20ea1f21d9c2781189263c"
+    },
+    {
+        "reactor_id": "245001734",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ad94c0de074a233a81332855f27eca52"
+    },
+    {
+        "reactor_id": "245001735",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/17c1aa330267a4df2eb5fc405aea218b"
+    },
+    {
+        "reactor_id": "245001736",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2ff71c4d40a7c57b2d69eb5e8df391eb"
+    },
+    {
+        "reactor_id": "245001737",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f6e2cefb9f0dc087953e315dac56563b"
+    },
+    {
+        "reactor_id": "245001738",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/adb8ae1b37db8eee8710e74363f942c2"
+    },
+    {
+        "reactor_id": "245001739",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d2ab3709d128ad315b5d44ad55382d09"
+    },
+    {
+        "reactor_id": "245001740",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3879ece2e28981c40d0b641a259b9886"
+    },
+    {
+        "reactor_id": "245001741",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/70dee0ba0ba729fa375f61e2ab9bed53"
+    },
+    {
+        "reactor_id": "245001742",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/80821ec359bc9b8c8d739f8fc4bfb757"
+    },
+    {
+        "reactor_id": "245001743",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/491a00a36f35bfd8b1f320be24f14048"
+    },
+    {
+        "reactor_id": "245001744",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6d14c37ea067d9760292528941b54956"
+    },
+    {
+        "reactor_id": "245001745",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3c168546d1301c5943fca1473188bece"
+    },
+    {
+        "reactor_id": "245001746",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/11ce3f1e7214158ae52ec62120d01185"
+    },
+    {
+        "reactor_id": "245001747",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a4d0f8bc165583af7b912eff2ca40f84"
+    },
+    {
+        "reactor_id": "245001748",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/68a62214778caa172d1bb983d8a16875"
+    },
+    {
+        "reactor_id": "245001749",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/46c06cbf2c7c6581f7c00073934cb7fe"
+    },
+    {
+        "reactor_id": "245001750",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a26f924c0435ddf4f8e4e62ae6191c01"
+    },
+    {
+        "reactor_id": "245001751",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6b7cad7405a9d2a0550676da388943c9"
+    },
+    {
+        "reactor_id": "245001752",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6f03362a10cd168c77ff3a355134bc40"
+    },
+    {
+        "reactor_id": "245001753",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a1c7931733116595baabab5d78f056e3"
+    },
+    {
+        "reactor_id": "245001754",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fd64a294baf8254628c63ee4f5809d91"
+    },
+    {
+        "reactor_id": "245001755",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3aae6364285f78424b8648513d38829e"
+    },
+    {
+        "reactor_id": "245001756",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a9e4c9df77d69f78d6c29b4fa6622939"
+    },
+    {
+        "reactor_id": "245001757",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/939e5958cd0e7f98a5622d064028a599"
+    },
+    {
+        "reactor_id": "245001758",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8db7d9d59f7fd1943b62356ae2c11782"
+    },
+    {
+        "reactor_id": "245001759",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d1181f03af28d30d796e86deceef6e82"
+    },
+    {
+        "reactor_id": "245001760",
+        "reactor_name": "Burning Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bbadda40ee2665d4294bd5b9b5c65b8e"
+    },
+    {
+        "reactor_id": "245001761",
+        "reactor_name": "Burning Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ce41dd7403119620c9ab7f42b75cd5ff"
+    },
+    {
+        "reactor_id": "245001762",
+        "reactor_name": "Burning Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/104f04dffcc33f0d97c9221f7dfd2789"
+    },
+    {
+        "reactor_id": "245001763",
+        "reactor_name": "Burning Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0c930b5efd666ef6e6304fe34a8a9717"
+    },
+    {
+        "reactor_id": "245001764",
+        "reactor_name": "Materialized Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b5dae88d689ed4c281cf4be78c84d5d3"
+    },
+    {
+        "reactor_id": "245001765",
+        "reactor_name": "Materialized Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a7acef360ec12d45617b14120205006b"
+    },
+    {
+        "reactor_id": "245001766",
+        "reactor_name": "Materialized Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/507ac96ab590c32235a37f62b8c93cf6"
+    },
+    {
+        "reactor_id": "245001767",
+        "reactor_name": "Materialized Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6ec4ed8919600a7aa774482f869e867f"
+    },
+    {
+        "reactor_id": "245001768",
+        "reactor_name": "Frozen Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/671a1fdf88449dc19781877e63b79d75"
+    },
+    {
+        "reactor_id": "245001769",
+        "reactor_name": "Frozen Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5265d136050835fbd59c6cdb78b2606c"
+    },
+    {
+        "reactor_id": "245001770",
+        "reactor_name": "Frozen Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/199a12f3c148a05edd4a3cee8057db9a"
+    },
+    {
+        "reactor_id": "245001771",
+        "reactor_name": "Frozen Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/107db9d1fdd0a6e31d8598e35e93c03c"
+    },
+    {
+        "reactor_id": "245001772",
+        "reactor_name": "Tingling Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6f62a5a0719b59892c0b6717f92269b5"
+    },
+    {
+        "reactor_id": "245001773",
+        "reactor_name": "Tingling Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fd76da1af0d8cc6bc86acd73966d7ba6"
+    },
+    {
+        "reactor_id": "245001774",
+        "reactor_name": "Tingling Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d09fb1721ec94e2a0e8b3ad0c4deab34"
+    },
+    {
+        "reactor_id": "245001775",
+        "reactor_name": "Tingling Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/d706b5b7808e00c0d5032791382fdccc"
+    },
+    {
+        "reactor_id": "245001776",
+        "reactor_name": "Toxic Mixture Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7041f1a65cab5687fc0accccec4be146"
+    },
+    {
+        "reactor_id": "245001777",
+        "reactor_name": "Toxic Singularity Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fe910e117edc1acb9e32834b27a8bac1"
+    },
+    {
+        "reactor_id": "245001778",
+        "reactor_name": "Toxic Phase Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e021da57675ac48e47fc6a90faabf8c6"
+    },
+    {
+        "reactor_id": "245001779",
+        "reactor_name": "Toxic Mechanics Reactor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cb721ea3a72462da4f8902a17dff266f"
+    }
+]

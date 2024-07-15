@@ -1,0 +1,502 @@
+[
+    {
+        "external_component_id": "241001001",
+        "external_component_name": "HP Support Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cc2fbed9ea081393b7162df70a4eed66"
+    },
+    {
+        "external_component_id": "241001002",
+        "external_component_name": "Shield Enhancement Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/079c7d4eb14e8cc8233434b38f2e0f85"
+    },
+    {
+        "external_component_id": "241001003",
+        "external_component_name": "DEF Support Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/657a75c9d72b099c56a5fd63d6dd208c"
+    },
+    {
+        "external_component_id": "241001004",
+        "external_component_name": "HP Support Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bb7cdccd7f331efaa695b8bb8f7bd79f"
+    },
+    {
+        "external_component_id": "241001005",
+        "external_component_name": "Shield Enhancement Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/44f98c6546421570a2e29905a6f34386"
+    },
+    {
+        "external_component_id": "241001006",
+        "external_component_name": "DEF Support Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/cd1ca9c9e3bf050c9e78e0584bf65358"
+    },
+    {
+        "external_component_id": "241001007",
+        "external_component_name": "HP Support Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ce05b1777d69012e21cde3e2d4c71d5a"
+    },
+    {
+        "external_component_id": "241001008",
+        "external_component_name": "Shield Enhancement Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fa724d97899c468952151b34e40acae4"
+    },
+    {
+        "external_component_id": "241001009",
+        "external_component_name": "DEF Support Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3819180c2416b898944051f26c85657f"
+    },
+    {
+        "external_component_id": "241012001",
+        "external_component_name": "Tomb Vanguard Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/800a536754ee91edbed4387af016409b"
+    },
+    {
+        "external_component_id": "241013001",
+        "external_component_name": "Supernova Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e759ccd13a6ac08ac5fc3bc21865fcc2"
+    },
+    {
+        "external_component_id": "241022002",
+        "external_component_name": "Battle Aesthetics Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8ff2252a335e6f422556d2884d3a6b67"
+    },
+    {
+        "external_component_id": "241023002",
+        "external_component_name": "Annihilation Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/044a05e546d9b3c39c4ddd9384ed7d49"
+    },
+    {
+        "external_component_id": "241032003",
+        "external_component_name": "Decimator Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8c4b449153247dd294e98722a3568e6f"
+    },
+    {
+        "external_component_id": "241033003",
+        "external_component_name": "Slayer Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3ae763ba683fc5fec98d303b15ca621e"
+    },
+    {
+        "external_component_id": "241042004",
+        "external_component_name": "Glacial Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4764daa3d45d0b76dea478721a16300a"
+    },
+    {
+        "external_component_id": "241043004",
+        "external_component_name": "Polar Night Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/59bb93212d7ba10453520ca4f83d654c"
+    },
+    {
+        "external_component_id": "241052005",
+        "external_component_name": "Predator Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/53b9e74ebe7f2daf420efd26ef50d182"
+    },
+    {
+        "external_component_id": "241053005",
+        "external_component_name": "Venom Essence Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/65a969b12c4412127b1a79f82b6f8c84"
+    },
+    {
+        "external_component_id": "241062006",
+        "external_component_name": "Veteran Marksman Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a5d978cb7fffeb2548853eb926cc1b44"
+    },
+    {
+        "external_component_id": "241063006",
+        "external_component_name": "Bravery Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/90b73311948037d1d7da5ce48b33dbf0"
+    },
+    {
+        "external_component_id": "241072007",
+        "external_component_name": "Swamp Recon Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f034038519d5940eea935a2c62b6a748"
+    },
+    {
+        "external_component_id": "241073007",
+        "external_component_name": "Frozen Heart Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fe4ff08caad091069e3c9b8b320c6af0"
+    },
+    {
+        "external_component_id": "241082008",
+        "external_component_name": "Acrobat Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c5eabf5cc9509328430ff54206976705"
+    },
+    {
+        "external_component_id": "241083008",
+        "external_component_name": "Volcanic Auxiliary Power",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8188bea518e6d8bdcbec1ce23c05912d"
+    },
+    {
+        "external_component_id": "242001001",
+        "external_component_name": "HP Support Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e8a268af2968e907408e5d77125460f7"
+    },
+    {
+        "external_component_id": "242001002",
+        "external_component_name": "Shield Enhancement Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/59f4dfc3952092cb8619fffcb6261798"
+    },
+    {
+        "external_component_id": "242001003",
+        "external_component_name": "DEF Support Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4da2ded020f0da91ef8f78b4790d7887"
+    },
+    {
+        "external_component_id": "242001004",
+        "external_component_name": "HP Support Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/70018adda7dbe46e54168666ffce149f"
+    },
+    {
+        "external_component_id": "242001005",
+        "external_component_name": "Shield Enhancement Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/19602b77dab1927fdc2ad1e7c62a7792"
+    },
+    {
+        "external_component_id": "242001006",
+        "external_component_name": "DEF Support Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3c039187d15551034b45a997db9014b4"
+    },
+    {
+        "external_component_id": "242001007",
+        "external_component_name": "HP Support Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/b5b9b331c44793cd23c9a787cf457af8"
+    },
+    {
+        "external_component_id": "242001008",
+        "external_component_name": "Shield Enhancement Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5d7691d7db126be25c640c698e4b1c06"
+    },
+    {
+        "external_component_id": "242001009",
+        "external_component_name": "DEF Support Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/291a0f72f4c4102cfde921293ec27981"
+    },
+    {
+        "external_component_id": "242012001",
+        "external_component_name": "Tomb Vanguard Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f84b535720a24915c2fc13ef3730e82d"
+    },
+    {
+        "external_component_id": "242013001",
+        "external_component_name": "Supernova Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9e670ca211964b34ab2989210ff42824"
+    },
+    {
+        "external_component_id": "242022002",
+        "external_component_name": "Battle Aesthetics Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/781bce6db95edb1fc02a1bf5f907f78b"
+    },
+    {
+        "external_component_id": "242023002",
+        "external_component_name": "Annihilation Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e4cb180a97c4d536a209b5a64946be66"
+    },
+    {
+        "external_component_id": "242032003",
+        "external_component_name": "Decimator Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/35c19277b618142ddc465d11ed1092eb"
+    },
+    {
+        "external_component_id": "242033003",
+        "external_component_name": "Slayer Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0dfa30138e29f548118f8b38f7eb8867"
+    },
+    {
+        "external_component_id": "242042004",
+        "external_component_name": "Glacial Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ee02e06d7faa5d072674a0e52cf57915"
+    },
+    {
+        "external_component_id": "242043004",
+        "external_component_name": "Polar Night Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/05299cf5695002a4127130d5c507d623"
+    },
+    {
+        "external_component_id": "242052005",
+        "external_component_name": "Predator Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a9f0729647c86a45086d1b18a596cb96"
+    },
+    {
+        "external_component_id": "242053005",
+        "external_component_name": "Venom Essence Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c7c5252ec11aafc6cfa677a7671d7836"
+    },
+    {
+        "external_component_id": "242062006",
+        "external_component_name": "Veteran Marksman Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/5fd68b4ee1b9615181e77fe7242b6f8b"
+    },
+    {
+        "external_component_id": "242063006",
+        "external_component_name": "Bravery Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7304e197ce2e95217fa20c90afb4c3fc"
+    },
+    {
+        "external_component_id": "242072007",
+        "external_component_name": "Swamp Recon Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/39e3fe7bc0d5fbff807dcfb80a1b1231"
+    },
+    {
+        "external_component_id": "242073007",
+        "external_component_name": "Frozen Heart Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6a4f6cbd8067ae23ffd9109a12f8a623"
+    },
+    {
+        "external_component_id": "242082008",
+        "external_component_name": "Acrobat Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1c1074109f82deffc80b6d67ff725229"
+    },
+    {
+        "external_component_id": "242083008",
+        "external_component_name": "Volcanic Sensor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a31109e86b68cb60cd4830328aa5624c"
+    },
+    {
+        "external_component_id": "243001001",
+        "external_component_name": "HP Support Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2e558d42ff30b01656abca95180e621f"
+    },
+    {
+        "external_component_id": "243001002",
+        "external_component_name": "Shield Enhancement Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/4909ebb33a1147dfdfc12cd53f14cdec"
+    },
+    {
+        "external_component_id": "243001003",
+        "external_component_name": "DEF Support Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/2164294ed2d80e98a661dd121992ce72"
+    },
+    {
+        "external_component_id": "243001004",
+        "external_component_name": "HP Support Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/574862609db7130ba5976a2e9d76e08a"
+    },
+    {
+        "external_component_id": "243001005",
+        "external_component_name": "Shield Enhancement Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9697e2883d2622111cef753648e55cc5"
+    },
+    {
+        "external_component_id": "243001006",
+        "external_component_name": "DEF Support Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/adc38e5154c58dd27b0bd888e837b3e5"
+    },
+    {
+        "external_component_id": "243001007",
+        "external_component_name": "HP Support Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1aa5a8039f12c2e6c21966b3844cd3ca"
+    },
+    {
+        "external_component_id": "243001008",
+        "external_component_name": "Shield Enhancement Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c6809ffb54eb7b6955e932e2c451dd24"
+    },
+    {
+        "external_component_id": "243001009",
+        "external_component_name": "DEF Support Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/42b6292f06ce18199ea89e17f48a6ab4"
+    },
+    {
+        "external_component_id": "243012001",
+        "external_component_name": "Tomb Vanguard Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/72aebd4ac3cdf49355e07ecf71f95d55"
+    },
+    {
+        "external_component_id": "243013001",
+        "external_component_name": "Supernova Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/fdf77d5b5ba3314878e40a78e71fe78e"
+    },
+    {
+        "external_component_id": "243022002",
+        "external_component_name": "Battle Aesthetics Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/58c0339dec46b2c2aadf7fe6f5326e42"
+    },
+    {
+        "external_component_id": "243023002",
+        "external_component_name": "Annihilation Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/96715bc623ff6e4e259bb9bf9b29c46e"
+    },
+    {
+        "external_component_id": "243032003",
+        "external_component_name": "Decimator Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/9c8e1f24f1ae48441f4803a1e538c67e"
+    },
+    {
+        "external_component_id": "243033003",
+        "external_component_name": "Slayer Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/600a999b784019c6bb9e5333dcc61400"
+    },
+    {
+        "external_component_id": "243042004",
+        "external_component_name": "Glacial Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/3cea7d73e5ef4f8f06960f179f5bb44f"
+    },
+    {
+        "external_component_id": "243043004",
+        "external_component_name": "Polar Night Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1815378e1e368f659b5e649ecb2f025c"
+    },
+    {
+        "external_component_id": "243052005",
+        "external_component_name": "Predator Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1b7f88224fd0c0ebde8db406a54b3443"
+    },
+    {
+        "external_component_id": "243053005",
+        "external_component_name": "Venom Essence Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ae46b4e0e8b13023ffa7f5bc1398049f"
+    },
+    {
+        "external_component_id": "243062006",
+        "external_component_name": "Veteran Marksman Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/0092d9b2fd015a6c8f57a223efcbc8bd"
+    },
+    {
+        "external_component_id": "243063006",
+        "external_component_name": "Bravery Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/110f0b54b07011a7cee6c01889268ccb"
+    },
+    {
+        "external_component_id": "243072007",
+        "external_component_name": "Swamp Recon Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/682cab0664b99cda9c4606d76a24dc5b"
+    },
+    {
+        "external_component_id": "243073007",
+        "external_component_name": "Frozen Heart Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/17292cce14c2f191c23d2e768ce5f5ee"
+    },
+    {
+        "external_component_id": "243082008",
+        "external_component_name": "Acrobat Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/672ba8a88ff9ac34e635d7cecc5984c1"
+    },
+    {
+        "external_component_id": "243083008",
+        "external_component_name": "Volcanic Memory",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6e67532a93c263944a9dc4d7e69c5f93"
+    },
+    {
+        "external_component_id": "244001001",
+        "external_component_name": "HP Support Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6d76659fc831aad1119be18615624a7c"
+    },
+    {
+        "external_component_id": "244001002",
+        "external_component_name": "Shield Enhancement Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6f3d269d5acfac294c895c21300a4856"
+    },
+    {
+        "external_component_id": "244001003",
+        "external_component_name": "DEF Support Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/64f940009724e35b028f94d49ef5e009"
+    },
+    {
+        "external_component_id": "244001004",
+        "external_component_name": "HP Support Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/41198f72fa740e7a18ba19045fb28d0b"
+    },
+    {
+        "external_component_id": "244001005",
+        "external_component_name": "Shield Enhancement Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/902d2478eb48c9749d0cd4cf18b63cdb"
+    },
+    {
+        "external_component_id": "244001006",
+        "external_component_name": "DEF Support Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/6c379aee328ab7d392c57c79209aec34"
+    },
+    {
+        "external_component_id": "244001007",
+        "external_component_name": "HP Support Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/a5b236e832ab6f0b6a4a338571cd6b91"
+    },
+    {
+        "external_component_id": "244001008",
+        "external_component_name": "Shield Enhancement Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e701e630b7c11fad351a28390ee37611"
+    },
+    {
+        "external_component_id": "244001009",
+        "external_component_name": "DEF Support Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/8245bef5725f85bfcf325b0c86a9e206"
+    },
+    {
+        "external_component_id": "244012001",
+        "external_component_name": "Tomb Vanguard Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/1170981caf07fc2b74631d99fac2d2d9"
+    },
+    {
+        "external_component_id": "244013001",
+        "external_component_name": "Supernova Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/57282836ccda2939a2237354904a2753"
+    },
+    {
+        "external_component_id": "244022002",
+        "external_component_name": "Battle Aesthetics Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/e67f526665f66f5858b3b014b1b84c4b"
+    },
+    {
+        "external_component_id": "244023002",
+        "external_component_name": "Annihilation Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/05758d5969efb43e7cc5b726f34e8a85"
+    },
+    {
+        "external_component_id": "244032003",
+        "external_component_name": "Decimator Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f75c70b01f9e50a9d85d4e6c0fdabfe2"
+    },
+    {
+        "external_component_id": "244033003",
+        "external_component_name": "Slayer Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/bced5dd90718567635edcd1f54021f5b"
+    },
+    {
+        "external_component_id": "244042004",
+        "external_component_name": "Glacial Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/681e134a3513928a86d6688d86b591a3"
+    },
+    {
+        "external_component_id": "244043004",
+        "external_component_name": "Polar Night Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ef68c94d3717ea1757400690249e0568"
+    },
+    {
+        "external_component_id": "244052005",
+        "external_component_name": "Predator Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c2d60d7952550ee300030add8e468ae1"
+    },
+    {
+        "external_component_id": "244053005",
+        "external_component_name": "Venom Essence Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/ef4127abcb2b1c27cf791795c61b4ba1"
+    },
+    {
+        "external_component_id": "244062006",
+        "external_component_name": "Veteran Marksman Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/98fc16f52367fc61848de0602c24d71b"
+    },
+    {
+        "external_component_id": "244063006",
+        "external_component_name": "Bravery Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/366ef6d57e0d74822d5cb36ed2c384c2"
+    },
+    {
+        "external_component_id": "244072007",
+        "external_component_name": "Swamp Recon Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/f818ea59344143f0b8020664b4ecc4e1"
+    },
+    {
+        "external_component_id": "244073007",
+        "external_component_name": "Frozen Heart Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/7a9cab1b5b635ce822f5b2fe663fb226"
+    },
+    {
+        "external_component_id": "244082008",
+        "external_component_name": "Acrobat Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/69e39553872e5b70f4ac7b56dcc336f6"
+    },
+    {
+        "external_component_id": "244083008",
+        "external_component_name": "Volcanic Processor",
+        "image_url": "https://open.api.nexon.com/static/tfd/img/c3bf30329b602815056b03037cbf53c5"
+    }
+]
