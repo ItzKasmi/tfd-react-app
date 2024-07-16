@@ -2,12 +2,12 @@ import { useEffect, useState } from "react";
 import React from 'react';
 
 export default function StatComponent(props) {
-  const [ reactorImageUrl, setReactorImageUrl ] = useState(null);
+  const [reactorImageUrl, setReactorImageUrl] = useState(null);
+  const [componentImages, setComponentImages] = useState([]);
   const { reactorData, componentData } = props;
 
   const reactorFilePath = 'reactor_data.json';
   const componentFilePath = 'component_data.json';
-  
 
   const fetchReactorImageData = async () => {
     try {
@@ -39,12 +39,12 @@ export default function StatComponent(props) {
 
   const getComponentImageUrl = async (componentId) => {
     const jsonComponentData = await fetchComponentImageData();
-    const componentImages = jsonComponentData.some((component) => component.external_component_id === componentId);
-    return componentImages ? componentImages : null;
+    const component = jsonComponentData.find((component) => component.external_component_id === componentId);
+    return component ? component.image_url : null;
   }
 
   useEffect(() => {
-    const handleFetchImage = async () => {
+    const handleFetchReactorImage = async () => {
       if (reactorData) {
         const url = await getReactorImageUrl(reactorData.reactor_id);
         if (url) {
@@ -57,16 +57,32 @@ export default function StatComponent(props) {
       }
     };
 
-    handleFetchImage();
-  }, [reactorData])
+    handleFetchReactorImage();
+  }, [reactorData]);
 
   useEffect(() => {
-    const handleFetchImage = async () => {
+    const handleFetchComponentImages = async () => {
       if (componentData && componentData.external_component && componentData.external_component.length > 0) {
-        
+        const imageUrls = [];
+        for (let i = 0; i < 4; i++) {
+          const component = componentData.external_component[i];
+          if (component) {
+            const url = await getComponentImageUrl(component.external_component_id);
+            if (url) {
+              imageUrls.push(url);
+            } else {
+              console.error(`Component with ID ${component.external_component_id} not found or missing image URL`);
+            }
+          }
+        }
+        setComponentImages(imageUrls);
+      } else {
+        console.log('Component data is not available or empty');
       }
-    }
-  }, [componentData])
+    };
+
+    handleFetchComponentImages();
+  }, [componentData]);
 
   if (!reactorData && !componentData) {
     return (
@@ -81,10 +97,16 @@ export default function StatComponent(props) {
       {reactorImageUrl ? (
         <img src={reactorImageUrl} alt={`Reactor ${reactorData.reactor_id}`} />
       ) : (
-        <p>Loading...</p>
+        <p>Loading reactor image...</p>
       )}
-      <hr></hr>
-      {componentData.external_component[0].external_component_id}
+      <hr />
+      {componentImages.length > 0 ? (
+        componentImages.map((url, index) => (
+          <img key={index} src={url} alt={`Component ${index + 1}`} />
+        ))
+      ) : (
+        <p>Loading component images...</p>
+      )}
     </div>
   )
 }
