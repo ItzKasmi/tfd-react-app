@@ -66,3 +66,18 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* Root Container */
+.root-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Weapon Container */
+.weapon-container img {
+  max-width: 50%;
+  max-height: 50%;
+  display: flex;
+  margin: 0 auto;
+}

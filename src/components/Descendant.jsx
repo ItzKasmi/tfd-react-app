@@ -50,7 +50,7 @@ export default function Descendant(props) {
   }
 
   return (
-    <div>
+    <div className="descendant-container">
       {imageUrl ? (
         <img src={imageUrl} alt={`Descendant ${descendantData.descendant_id}`} />
       ) : (

@@ -93,7 +93,7 @@ export default function StatComponent(props) {
   }
 
   return (
-    <div>
+    <div className="statcomponent-container">
       {reactorImageUrl ? (
         <img src={reactorImageUrl} alt={`Reactor ${reactorData.reactor_id}`} />
       ) : (

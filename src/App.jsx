@@ -38,14 +38,16 @@ function App() {
 
   return (
     <>
-      <button onClick={fetchData}>Fetch Data</button>
-      {loading && <p>Loading...</p>}
-      {!loading && basicData && <Basic basicData={basicData} />}
-      {!loading && descendantData && <Descendant descendantData={descendantData} />}
-      {!loading && weaponData && <Weapon weaponData={weaponData} />}
-      {!loading && reactorData && componentData && (
-        <StatComponent reactorData={reactorData} componentData={componentData} />
-      )}
+      <div className="root-container">
+        <button onClick={fetchData}>Fetch Data</button>
+        {loading && <p>Loading...</p>}
+        {!loading && basicData && <Basic basicData={basicData} />}
+        {!loading && descendantData && <Descendant descendantData={descendantData} />}
+        {!loading && weaponData && <Weapon weaponData={weaponData} />}
+        {!loading && reactorData && componentData && (
+          <StatComponent reactorData={reactorData} componentData={componentData} />
+        )}
+      </div>
     </>
   )
 }

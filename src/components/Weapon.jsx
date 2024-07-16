@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import React from 'react';
 
 export default function Weapon(props) {
-  const [imageUrl, setImageUrl] = useState(null);
+  const [imageUrl, setImageUrl] = useState([]);
   const { weaponData } = props;
 
   const jsonFilePath = `weapon_data.json`;
@@ -27,12 +27,21 @@ export default function Weapon(props) {
   useEffect(() => {
     const handleFetchImage = async () => {
       if (weaponData && weaponData.weapon && weaponData.weapon.length > 0) {
-        const url = await getImageUrl(weaponData.weapon[0].weapon_id);
-        if (url) {
-          setImageUrl(url);
-        } else {
-          console.error('Weapon not found or missing image URL');
+        const imageUrls = [];
+        for (let i = 0; i < 3; i++) {
+          const weapon = weaponData.weapon[i];
+          if (weapon) {
+            const url = await getImageUrl(weapon.weapon_id);
+            if (url) {
+              imageUrls.push(url);
+            } else {
+              console.error(`Weapon with ID ${weapon.weapon_id} not found or missing image URL`);
+            }
+          }
         }
+        setImageUrl(imageUrls);
+      } else {
+        console.log('Weapon data is not available or empty');
       }
     };
 
@@ -48,8 +57,15 @@ export default function Weapon(props) {
   }
 
   return (
-    <div>
-      {imageUrl && <img src={imageUrl} alt={`Weapon ${weaponData.weapon[0].weapon_id}`} />}
+    <div className="weapon-container">
+      <hr></hr>
+      {imageUrl.length > 0 ? (
+        imageUrl.map((url, index) => (
+          <img key={index} src={url} alt={`Weapon ${index + 1}`} />
+        ))
+      ) : (
+        <p>Loading component images...</p>
+      )}
     </div>
   );
 }
