@@ -11,6 +11,8 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  box-sizing: border-box;
 }
 
 a {
@@ -25,13 +27,14 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  place-items: center;
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
   min-width: 320px;
   min-height: 100vh;
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 3.8em;
   line-height: 1.1;
 }
 
@@ -72,12 +75,62 @@ button:focus-visible {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+  padding-left: 15%;
+  padding-right: 15%;
+  height: 100vh;
+  
+}
+
+/* Name Banner */
+.name-banner {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  min-width: 256px;
+  max-height: 256px;
+  color: white;
+  background-color:#213547;
+}
+
+.descendant-container, .basic-container {
+  background: linear-gradient(to top, #030615, rgba(255, 255, 255, 0));
+}
+
+/* Basic Container */
+.basic-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.basic-container-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 256px;
+  width: 100%;
 }
 
 /* Weapon Container */
+.weapon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%; 
+}
+
 .weapon-container img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   max-width: 50%;
   max-height: 50%;
+}
+
+/* Reactor Container */
+.reactor-container {
   display: flex;
-  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
 }

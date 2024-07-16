@@ -57,8 +57,8 @@ export default function Weapon(props) {
   }
 
   return (
+    <>
     <div className="weapon-container">
-      <hr></hr>
       {imageUrl.length > 0 ? (
         imageUrl.map((url, index) => (
           <img key={index} src={url} alt={`Weapon ${index + 1}`} />
@@ -67,5 +67,6 @@ export default function Weapon(props) {
         <p>Loading component images...</p>
       )}
     </div>
+    </>
   );
 }

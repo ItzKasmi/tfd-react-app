@@ -11,8 +11,12 @@ export default function Basic(props) {
   }
 
   return (
+    <>
     <div className="basic-container">
-      {basicData.user_name}
+      <div className='basic-container-name'>
+        <h1>{basicData.user_name}</h1>
+      </div>
     </div>
+    </>
   )
 }

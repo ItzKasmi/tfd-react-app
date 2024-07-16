@@ -93,13 +93,15 @@ export default function StatComponent(props) {
   }
 
   return (
-    <div className="statcomponent-container">
+    <>
+    <div className="reactor-container">
       {reactorImageUrl ? (
         <img src={reactorImageUrl} alt={`Reactor ${reactorData.reactor_id}`} />
       ) : (
         <p>Loading reactor image...</p>
       )}
-      <hr />
+    </div>
+    <div className="component-container">
       {componentImages.length > 0 ? (
         componentImages.map((url, index) => (
           <img key={index} src={url} alt={`Component ${index + 1}`} />
@@ -108,5 +110,6 @@ export default function StatComponent(props) {
         <p>Loading component images...</p>
       )}
     </div>
+    </>
   )
 }

@@ -41,8 +41,10 @@ function App() {
       <div className="root-container">
         <button onClick={fetchData}>Fetch Data</button>
         {loading && <p>Loading...</p>}
-        {!loading && basicData && <Basic basicData={basicData} />}
-        {!loading && descendantData && <Descendant descendantData={descendantData} />}
+        <div className="name-banner">
+          {!loading && descendantData && <Descendant descendantData={descendantData} />}
+          {!loading && basicData && <Basic basicData={basicData} />}
+        </div>
         {!loading && weaponData && <Weapon weaponData={weaponData} />}
         {!loading && reactorData && componentData && (
           <StatComponent reactorData={reactorData} componentData={componentData} />
