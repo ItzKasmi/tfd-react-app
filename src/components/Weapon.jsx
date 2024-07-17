@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Weapon(props) {
   const [imageUrl, setImageUrl] = useState([]);
-  const { weaponData } = props;
+  const { weaponData, handleToggleModal } = props;
 
   const jsonFilePath = `weapon_data.json`;
 

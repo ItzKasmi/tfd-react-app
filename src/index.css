@@ -12,6 +12,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -29,7 +31,7 @@ body {
   display: flex;
   justify-content: center; /* Center content horizontally */
   align-items: center; /* Center content vertically */
-  min-width: 320px;
+  min-width: 910px;
   min-height: 100vh;
 }
 
@@ -87,10 +89,11 @@ button:focus-visible {
   display: flex;
   justify-content: center;
   width: 100%;
-  min-width: 256px;
-  max-height: 256px;
   color: white;
   background-color:#213547;
+  width: 100%;
+  min-width: 910px;
+  max-height: 256px;
 }
 
 .descendant-container, .basic-container {
@@ -112,19 +115,28 @@ button:focus-visible {
   width: 100%;
 }
 
+/* Weapon Modal */
+.weapon-modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 /* Weapon Container */
 .weapon-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%; 
+  width: 100%;
+  min-width: 910px;
+  
 }
 
 .weapon-container img {
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 50%;
+  max-width: 66.8%;
   max-height: 50%;
 }
 

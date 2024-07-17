@@ -11,6 +11,7 @@ This will work towards making sure you don't go over the 1000 daily use limit.
 `
 
 function App() {
+  const [showModal, setShowModal] = useState(false)
   const [basicData, setBasicData] = useState(null);
   const [descendantData, setDescendantData] = useState(null);
   const [weaponData, setWeaponData] = useState(null);
@@ -18,6 +19,9 @@ function App() {
   const [componentData, setComponentData] = useState(null);
   const [loading, setLoading] = useState(false);
 
+  function handleToggleModal() {
+    setShowModal(!showModal)
+  }
 
   async function fetchData() {
     setLoading(true);
@@ -45,7 +49,10 @@ function App() {
           {!loading && descendantData && <Descendant descendantData={descendantData} />}
           {!loading && basicData && <Basic basicData={basicData} />}
         </div>
-        {!loading && weaponData && <Weapon weaponData={weaponData} />}
+        <div className="weapon-modal">
+          <button onClick={handleToggleModal}>Weapons List</button>
+          {showModal && !loading && weaponData && <Weapon weaponData={weaponData} handleToggleModal={handleToggleModal}/>}
+        </div>
         {!loading && reactorData && componentData && (
           <StatComponent reactorData={reactorData} componentData={componentData} />
         )}
